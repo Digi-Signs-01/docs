@@ -1,0 +1,32 @@
+{
+  "recentFiles": [
+    {
+      "basename": "02_installing-panasonic-player-software",
+      "path": "29_panasonic/02_installing-panasonic-player-software.md"
+    },
+    {
+      "basename": "01_installing-raspberry-pi-player-software",
+      "path": "02_player-installation/41_raspberry-pi/01_installing-raspberry-pi-player-software.md"
+    },
+    {
+      "basename": "01_video-playback-decoder",
+      "path": "02_player-installation/01_video-playback-decoder.md"
+    },
+    {
+      "basename": "03_using-audio-files",
+      "path": "05_audio-content/03_using-audio-files.md"
+    },
+    {
+      "basename": "02_using-audio-ducking",
+      "path": "05_audio-content/02_using-audio-ducking.md"
+    },
+    {
+      "basename": "01_using-audio-announcement-app",
+      "path": "05_audio-content/01_using-audio-announcement-app.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

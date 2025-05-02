@@ -1,24 +1,24 @@
-site_name: Publisher for MkDocs
-site_url: https://mkdocs-publisher.github.io/
-site_author: Maciej 'maQ' Kusz
-site_description: Publishing plugin for MkDocs
+site_name: Digisigns Documentation
+site_url: https://docs.digisigns.in
+site_author: Digisigns Team
+site_description: Digisigns Digital Signage Documentation
 copyright: >
-  &copy; 2023-2024 Maciej 'maQ' Kusz
+  &copy; 2023-2025 Digisigns
 
-repo_name: mkdocs-publisher
-repo_url: https://github.com/mkdocs-publisher/mkdocs-publisher/
-edit_uri: https://github.com/mkdocs-publisher/mkdocs-publisher.github.io/edit/main/mkdocs_publisher_docs/
+# repo_name: mkdocs-digi
+# repo_url: https://github.com/mkdocs-publisher/mkdocs-publisher/
+# edit_uri: https://github.com/mkdocs-publisher/mkdocs-publisher.github.io/edit/main/mkdocs_publisher_docs/
 
-docs_dir: mkdocs_publisher_docs
+docs_dir: documentation
 site_dir: docs
 
 use_directory_urls: true
-strict: true
+strict: false
 
 dev_addr: 127.0.0.1:8666
 
 extra:
-  homepage: https://mkdocs-publisher.github.io/
+  homepage: https://digisigns.in
 
 extra_css:
   - assets/stylesheets/publisher.css
@@ -46,26 +46,26 @@ theme:
   font:
     code: Lato
   custom_dir: overrides
-  logo: publisher_logo.png
-  favicon: publisher_icon.png
+  logo: favicon.png
+  favicon: favicon.png
 
   palette:
 
     # Palette toggle for light mode
     - scheme: default
-      toggle:
-        icon: material/lightbulb
-        name: Switch to dark mode
-      primary: orange
-      accent: orange
+      # toggle:
+      #   icon: material/lightbulb
+      #   name: Switch to dark mode
+      primary: white
+      accent: black
 
     # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/lightbulb-outline
-        name: Switch to light mode
-      primary: orange
-      accent: orange
+    # - scheme: slate
+    #   toggle:
+    #     icon: material/lightbulb-outline
+    #     name: Switch to light mode
+    #   primary: orange
+    #   accent: orange
 
   features:
     - navigation.tabs
@@ -80,11 +80,11 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-    - content.action.edit
-    - content.action.view
-    - content.code.copy
-    - content.code.annotate
-    - content.tabs.link
+    # - content.action.edit
+    # - content.action.view
+    # - content.code.copy
+    # - content.code.annotate
+    # - content.tabs.link
     - toc.follow
 
 markdown_extensions:
@@ -156,7 +156,9 @@ plugins:
   - search
   - pub-blog:
       blog_dir: 06_blog
-  - pub-obsidian
+  - pub-obsidian:
+      backlinks:
+        enabled: false
   - pub-social
   - pub-meta
   - pub-minifier

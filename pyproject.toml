@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "mkdocs-publisher-docs"
-version = "1.4.2"
-description = "Publisher for MkDocs documentation"
-authors = ["Maciej 'maQ' Kusz <maciej.kusz@gmail.com>"]
+name = "mkdocs-digi"
+version = "1.0"
+description = "Digisigns Digital Signage documentation"
+authors = ["Digisigns Team"]
 license = "MIT License"
 readme = "README.md"
 package-mode = false
