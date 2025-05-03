@@ -29,3 +29,9 @@ dist
 node_modules
 sandbox*
 docs_template
+
+# Obsidian files
+documentation/.obsidian/
+
+# Smart-env files
+documentation/.smart-env/
