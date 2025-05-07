@@ -1,5 +1,5 @@
 ---
-title: Getting Started with Digisigns
+title: Getting Started
 slug: .
 publish: "true"
 date: 2025-05-03
@@ -10,26 +10,12 @@ categories:
   - setup
   - digital signage
 hide:
-  - toc
   - navigation
 ---
 
 # Getting Started with Digisigns
 
 Welcome to Digisigns, your complete cloud-based digital signage solution. This comprehensive guide will walk you through everything you need to know to transform your screens into powerful communication tools that captivate your audience and drive engagement.
-
-## Table of Contents
-
-1. [Introduction to Digisigns](#introduction-to-digisigns)
-2. [Account Setup](#account-setup)
-3. [Platform Overview](#platform-overview)
-4. [Content Management](#content-management)
-5. [Screen Setup & Configuration](#screen-setup--configuration)
-6. [Mobile Application Setup](#mobile-application-setup)
-7. [Best Practices](#best-practices)
-8. [Subscription Plans](#subscription-plans)
-9. [Support Resources](#support-resources)
-
 ## Introduction to Digisigns
 
 Digisigns is a powerful cloud-based digital signage platform that allows you to create, manage, and display dynamic content across multiple screens from a single dashboard. Our solution empowers businesses of all sizes to craft engaging digital experiences that captivate audiences and deliver measurable results.
@@ -60,7 +46,7 @@ Digisigns is a powerful cloud-based digital signage platform that allows you to 
 
 5. Sign in with your newly created credentials
 
-![Login Screen](https://miro.medium.com/v2/resize:fit:640/format:webp/1*d8ANbaBtf5vkJwo2kWEdEg.png)
+![[LoginPage.png]]
 
 ## Platform Overview
 
@@ -80,8 +66,7 @@ Manage access and permissions for your team:
 - Monitor user activity and content changes
 - Control access to specific screens or screen groups
 
-![Users Section](https://miro.medium.com/v2/resize:fit:640/format:webp/1*DmUMx_j2osoi2vHMpvN6XA.png)
-
+![[DigisignsDashboard.png]]
 ### Media
 Your content library for all digital assets:
 - Upload and manage images, videos, and other media files
