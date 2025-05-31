@@ -1,7 +1,7 @@
 ---
-title: "Installing On Webos 40 To 60"
+title: Installing On Webos 40 To 60
 slug: installing-on-webos-40-to-60
-publish: false
+publish: true
 date: 2025-05-03
 update: 2025-05-03
 description: Installing On Webos 40 To 60
@@ -12,7 +12,7 @@ categories:
 Installing on webOS 4.0 to 6.0
 ==============================
 
-Installing the OnSign TV  Player Software on your LG Smart Signage Platform webOS screens is really simple and easy!
+Installing the Digisigns Software on your LG Smart Signage Platform webOS screens is really simple and easy!
 
 This tutorial applies **to the following screen models**:
 
@@ -23,7 +23,7 @@ This tutorial applies **to the following screen models**:
 | webOS Signage 4.1 | 4K / 1080P | Yes | Yes | UM3D, UM3DF, UH5F, UH7F, 22SM3G, UL3G, UM3F |
 | webOS Signage 6.0 | 4K | Yes | Yes | SM5J, UL3J, UH5J, UH7J |
 
-[Refer to this tutorial](/lg-webos/installing-on-webos-20-to-32) for instructions on how to install on **LG webOS 2.0, 3.0**, and **3.2** instead.
+[Refer to this tutorial](/02_player-installation/19_lg-webos/02_installing-on-webos-20-to-32) for instructions on how to install on **LG webOS 2.0, 3.0**, and **3.2** instead.
 
 Installation Process
 --------------------
@@ -49,7 +49,7 @@ Installation Process
 
 * Application Launch Mode: **Local**
 * Fully Qualified Domain Name: **ON**
-* URL: https://webos.onsign.tv/ (*Make sure to type all characters, including the last "/"*.)
+* URL: https://www.digisigns.in/lg.ipk (*Make sure to type all characters, including the last "/"*.)
 * Application Type: **IPK\***
 * (\*If this option is **not available**, it means you need to upgrade the TV's firmware. Upgrade the firmware and re-start the OnSign TV installation process.)
 * Auto Set: **OFF** (Warning: Leaving this option enabled disables remote Player updates.)

@@ -1,7 +1,7 @@
 ---
-title: "Updating Lg Webos Firmware"
+title: Updating Lg Webos Firmware
 slug: updating-lg-webos-firmware
-publish: false
+publish: true
 date: 2025-05-03
 update: 2025-05-03
 description: Updating Lg Webos Firmware
@@ -14,7 +14,7 @@ Updating LG webOS Firmware
 
 Please **do NOT interrupt this process before it's finished. Otherwise it might damage your device**.
 
-1. Download the newest firmware file. If you don't have it or don't know how to obtain it, contact our team through [Support](https://onsign.tv/support-submit-a-ticket/).
+1. Download the newest firmware file. If you don't have it or don't know how to obtain it, contact our team through [Support](support@digisigns.in).
 2. Create a folder named LG\_MONITOR in the root of a USB stick (formatted as FAT32 or MS-DOS FAT) and move the downloaded file into this folder.
 3. Plug the USB stick into your LG webOS Signage device and turn it on.
 4. Wait a couple of minutes until the screen below is displayed:

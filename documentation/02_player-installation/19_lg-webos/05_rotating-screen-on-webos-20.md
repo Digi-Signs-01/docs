@@ -1,7 +1,7 @@
 ---
-title: "Rotating Screen On Webos 20"
+title: Rotating Screen On Webos 20
 slug: rotating-screen-on-webos-20
-publish: false
+publish: true
 date: 2025-05-03
 update: 2025-05-03
 description: Rotating Screen On Webos 20
@@ -14,7 +14,7 @@ Rotating screen on webOS 2.0
 
 If you deploy digital signage through LG webOS 2.0 screens, adjust the device settings in order to display your Content in Portrait Mode. Turn on your screen and follow the instructions below:
 
-LG webOS 3.0 and 3.2 devices are set to Portrait Mode during the OnSign TV  Player App setup. Read here [how to install OnSign TV on LG webOS 2.0 - 3.2](/lg-webos/installing-on-webos-20-to-32).
+LG webOS 3.0 and 3.2 devices are set to Portrait Mode during the Digisigns App setup. Read here [how to install Digisigns on LG webOS 2.0 - 3.2](/02_player-installation/19_lg-webos/02_installing-on-webos-20-to-32).
 
 1. Hold the "Settings" button pressed until a rectangular box pops up in the top-right corner of the screen.
 
@@ -27,4 +27,4 @@ LG webOS 3.0 and 3.2 devices are set to Portrait Mode during the OnSign TV  Pla
 
 4. Select “90” or “270” depending on your screen setup.
 5. Look for "OSD Portrait Mode" and make sure it's turned off.
-6. Leave the Signage Setup menu and open the OnSign TV  Player App to display your Content in the right orientation.
+6. Leave the Signage Setup menu and open the Digisigns App to display your Content in the right orientation.

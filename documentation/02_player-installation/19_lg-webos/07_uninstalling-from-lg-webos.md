@@ -1,7 +1,7 @@
 ---
-title: "Uninstalling From Lg Webos"
+title: Uninstalling From Lg Webos
 slug: uninstalling-from-lg-webos
-publish: false
+publish: true
 date: 2025-05-03
 update: 2025-05-03
 description: Uninstalling From Lg Webos
@@ -22,4 +22,4 @@ To remove our player from **webOS 3** devices, follow these steps:
 4. Press UP on the remote. A small bubble with the X mark should appear right above our Player icon.
 5. Press OK to confirm and restart the TV (power it off and back on using the remote).
 
-To reinstall our Player, you can follow the steps from [this tutorial](/lg-webos/installing-on-webos-20-to-32).
+To reinstall our App, you can follow the steps from [this tutorial](/02_player-installation/19_lg-webos/02_installing-on-webos-20-to-32).

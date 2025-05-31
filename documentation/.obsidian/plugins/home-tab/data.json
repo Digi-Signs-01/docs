@@ -22,7 +22,28 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "02_player-installation/43_samsung-sssp-and-tizen/04_rotating-the-screen-portrait.md",
+      "timestamp": 1748671793297
+    },
+    {
+      "filepath": "02_player-installation/43_samsung-sssp-and-tizen/03_installing-tizen-player-software.md",
+      "timestamp": 1748671786378
+    },
+    {
+      "filepath": "02_player-installation/43_samsung-sssp-and-tizen/02_installing-on-sssp2-and-sssp3.md",
+      "timestamp": 1748671767525
+    },
+    {
+      "filepath": "02_player-installation/43_samsung-sssp-and-tizen/01_how-to-reset-sssp.md",
+      "timestamp": 1748671761488
+    },
+    {
+      "filepath": "27_network-settings/02_using-china-proxy-server.md",
+      "timestamp": 1748671747129
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

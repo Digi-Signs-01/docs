@@ -1,7 +1,7 @@
 ---
-title: "Enable Wifi Connection"
+title: Enable Wifi Connection
 slug: enable-wifi-connection
-publish: false
+publish: true
 date: 2025-05-03
 update: 2025-05-03
 description: Enable Wifi Connection

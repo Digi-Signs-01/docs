@@ -16,8 +16,8 @@ The Samsung Smart Signage Platform (SSSP) requires a new installation and adjust
 
 Besides setting a Portrait Layout when creating a Campaign or Composition or uploading a piece of Content formatted in Portrait Mode, you need to adjust the settings of the Samsung Smart Signage Platform to showcase your Content in Portrait Mode. After creating your Content, follow the steps below and you’ll be quickly done:
 
-* If this is the first time you install the OnSign TV  Player App on your SSSP, please skip the uninstallation step mentioned next.
-* In case you previously had the OnSign TV Player Software installed or Samsung Magic Info, you will need to uninstall either of the two before continuing. To uninstall a previously used software like Magic Info please refer to [this tutorial](/samsung-sssp-and-tizen/switch-to-onsign-tv-from-samsung-magic-info).
+* If this is the first time you install the Digisigns App on your SSSP, please skip the uninstallation step mentioned next.
+* In case you previously had the Digisigns App installed or Samsung Magic Info, you will need to uninstall either of the two before continuing. To uninstall a previously used software like Magic Info please refer to [this tutorial](/samsung-sssp-and-tizen/switch-to-onsign-tv-from-samsung-magic-info).
 
 Portrait HDMI-in playback only works on the **second generation of SSSP** after having displayed at least one video file.
 
@@ -46,7 +46,7 @@ Turn your monitor on and grab your remote to complete the following steps:
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731439110665/portrait-mode-on-samsung-sssp_5.jpg)
 
-OnSign TV Player Software Installation
+Digisigns App Software Installation
 --------------------------------------
 
 At last, let’s download the dedicated OnSign TV Player App in Portrait Mode.

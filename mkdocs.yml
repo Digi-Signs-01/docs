@@ -10,7 +10,7 @@ copyright: >
 # edit_uri: https://github.com/mkdocs-publisher/mkdocs-publisher.github.io/edit/main/mkdocs_publisher_docs/
 
 docs_dir: documentation
-site_dir: docs
+site_dir: documentation
 
 use_directory_urls: true
 strict: false
@@ -18,7 +18,7 @@ strict: false
 dev_addr: 127.0.0.1:8666
 
 extra:
-  homepage: https://digisigns.in
+  homepage: https://docs.digisigns.in
 
 extra_css:
   - assets/stylesheets/publisher.css
