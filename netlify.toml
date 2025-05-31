@@ -1,5 +1,5 @@
 [build]
-  publish = "documentation"
+  publish = "docs"
   command = "mkdocs build"
 
 [build.environment]

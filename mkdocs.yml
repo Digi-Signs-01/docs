@@ -10,7 +10,7 @@ copyright: >
 # edit_uri: https://github.com/mkdocs-publisher/mkdocs-publisher.github.io/edit/main/mkdocs_publisher_docs/
 
 docs_dir: documentation
-site_dir: documentation
+site_dir: docs
 
 use_directory_urls: true
 strict: false
