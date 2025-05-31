@@ -1,5 +1,5 @@
 ---
-title: "Updating Sssp2 And Sssp3 Firmware"
+title: Updating SSSP2 And SSSP3 Firmware
 slug: updating-sssp2-and-sssp3-firmware
 publish: false
 date: 2025-05-03

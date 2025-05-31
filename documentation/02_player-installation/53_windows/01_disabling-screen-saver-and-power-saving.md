@@ -1,18 +1,18 @@
 ---
-title: "Disabling Screen Saver And Power Saving"
+title: Disabling Screen Saver & Power Saving
 slug: disabling-screen-saver-and-power-saving
-publish: false
+publish: true
 date: 2025-05-03
 update: 2025-05-03
-description: Disabling Screen Saver And Power Saving
+description: Disabling Screen Saver & Power Saving
 categories:
   - start
 ---
 
 Disabling Screen Saver and Power Saving
-=======================================
+========================================================
 
-When using a Windows PC as a Player, it is important to disable the Windows Screensaver and the Power Saving features to prevent it from stopping your Signage Player.
+When using a Windows PC as a Media Player, it is important to disable the Windows Screensaver and the Power Saving features to prevent it from stopping your Digisigns Signage Player.
 
 Here is how to configure Windows 10 to not put your computer to "Sleep":
 

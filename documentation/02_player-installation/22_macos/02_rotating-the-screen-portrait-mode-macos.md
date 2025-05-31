@@ -1,7 +1,7 @@
 ---
-title: "Rotating The Screen Portrait Mode Macos"
+title: Rotating The Screen (Portrait Mode) on MacOS
 slug: rotating-the-screen-portrait-mode-macos
-publish: false
+publish: true
 date: 2025-05-03
 update: 2025-05-03
 description: Rotating The Screen Portrait Mode Macos
@@ -21,3 +21,5 @@ Rotating the screen on MacOS is quick and simple:
 5. Close out the System Preferences to have the settings go into effect.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731529064017/how-to-set-mac-os-x-to-portrait-mode_1.png)
+
+Alternatively, you can also use the dashboard (edit screen) and change the orientation there.

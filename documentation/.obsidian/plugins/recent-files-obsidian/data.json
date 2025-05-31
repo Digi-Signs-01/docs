@@ -1,12 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "04_rotating-the-screen-portrait",
-      "path": "02_player-installation/43_samsung-sssp-and-tizen/04_rotating-the-screen-portrait.md"
+      "basename": "06_rotating-screen-on-webos-40",
+      "path": "02_player-installation/19_lg-webos/06_rotating-screen-on-webos-40.md"
+    },
+    {
+      "basename": "07_uninstalling-from-lg-webos",
+      "path": "02_player-installation/19_lg-webos/07_uninstalling-from-lg-webos.md"
+    },
+    {
+      "basename": "04_renaming-a-screen",
+      "path": "07_basic-dashboard-operations/04_renaming-a-screen.md"
+    },
+    {
+      "basename": "03_signing-out-from-app",
+      "path": "07_basic-dashboard-operations/03_signing-out-from-app.md"
+    },
+    {
+      "basename": "05_replacing-a-hardware-device",
+      "path": "07_basic-dashboard-operations/05_replacing-a-hardware-device.md"
+    },
+    {
+      "basename": "SignOutConfirmation",
+      "path": "SignOutConfirmation.png"
+    },
+    {
+      "basename": "01_connecting-app-to-dashboard",
+      "path": "07_basic-dashboard-operations/01_connecting-app-to-dashboard.md"
+    },
+    {
+      "basename": "02_deleting-a-player",
+      "path": "07_basic-dashboard-operations/02_deleting-a-player.md"
+    },
+    {
+      "basename": "No Media Found",
+      "path": "No Media Found.png"
+    },
+    {
+      "basename": "LoginCredentials",
+      "path": "LoginCredentials.png"
+    },
+    {
+      "basename": "EditScreenDetails",
+      "path": "EditScreenDetails.png"
+    },
+    {
+      "basename": "DashboardLoginCode",
+      "path": "DashboardLoginCode.png"
+    },
+    {
+      "basename": "AppLoginScreen",
+      "path": "AppLoginScreen.png"
+    },
+    {
+      "basename": "ScreensDashboard",
+      "path": "ScreensDashboard.png"
+    },
+    {
+      "basename": "03_rotating-the-screen-portrait-mode",
+      "path": "02_player-installation/53_windows/03_rotating-the-screen-portrait-mode.md"
+    },
+    {
+      "basename": "02_installing-windows-app",
+      "path": "02_player-installation/53_windows/02_installing-windows-app.md"
+    },
+    {
+      "basename": "01_disabling-screen-saver-and-power-saving",
+      "path": "02_player-installation/53_windows/01_disabling-screen-saver-and-power-saving.md"
+    },
+    {
+      "basename": "01_installing-macos-player-software",
+      "path": "02_player-installation/22_macos/01_installing-macos-player-software.md"
+    },
+    {
+      "basename": "02_rotating-the-screen-portrait-mode-macos",
+      "path": "02_player-installation/22_macos/02_rotating-the-screen-portrait-mode-macos.md"
+    },
+    {
+      "basename": "01_video-playback-decoder",
+      "path": "02_player-installation/01_video-playback-decoder.md"
+    },
+    {
+      "basename": "README",
+      "path": "07_basic-dashboard-operations/README.md"
+    },
+    {
+      "basename": "Digisigns Download Page",
+      "path": "Digisigns Download Page.png"
     },
     {
       "basename": "03_installing-tizen-player-software",
       "path": "02_player-installation/43_samsung-sssp-and-tizen/03_installing-tizen-player-software.md"
+    },
+    {
+      "basename": "07_updating-sssp2-and-sssp3-firmware",
+      "path": "02_player-installation/43_samsung-sssp-and-tizen/07_updating-sssp2-and-sssp3-firmware.md"
+    },
+    {
+      "basename": "06_uninstall-apps-via-url-launcher-on-sssp2-and-sssp3",
+      "path": "02_player-installation/43_samsung-sssp-and-tizen/06_uninstall-apps-via-url-launcher-on-sssp2-and-sssp3.md"
+    },
+    {
+      "basename": "05_switch-to-digisigns-from-samsung-magic-info",
+      "path": "02_player-installation/43_samsung-sssp-and-tizen/05_switch-to-digisigns-from-samsung-magic-info.md"
+    },
+    {
+      "basename": "04_rotating-the-screen-portrait",
+      "path": "02_player-installation/43_samsung-sssp-and-tizen/04_rotating-the-screen-portrait.md"
     },
     {
       "basename": "02_installing-on-sssp2-and-sssp3",
@@ -15,18 +115,6 @@
     {
       "basename": "01_how-to-reset-sssp",
       "path": "02_player-installation/43_samsung-sssp-and-tizen/01_how-to-reset-sssp.md"
-    },
-    {
-      "basename": "02_using-china-proxy-server",
-      "path": "27_network-settings/02_using-china-proxy-server.md"
-    },
-    {
-      "basename": "01_firewall-settings",
-      "path": "27_network-settings/01_firewall-settings.md"
-    },
-    {
-      "basename": "README",
-      "path": "02_player-installation/19_lg-webos/README.md"
     },
     {
       "basename": "01_enable-wifi-connection",
@@ -49,16 +137,20 @@
       "path": "02_player-installation/19_lg-webos/05_rotating-screen-on-webos-20.md"
     },
     {
-      "basename": "06_rotating-screen-on-webos-40",
-      "path": "02_player-installation/19_lg-webos/06_rotating-screen-on-webos-40.md"
-    },
-    {
-      "basename": "07_uninstalling-from-lg-webos",
-      "path": "02_player-installation/19_lg-webos/07_uninstalling-from-lg-webos.md"
-    },
-    {
       "basename": "08_updating-lg-webos-firmware",
       "path": "02_player-installation/19_lg-webos/08_updating-lg-webos-firmware.md"
+    },
+    {
+      "basename": "02_using-china-proxy-server",
+      "path": "27_network-settings/02_using-china-proxy-server.md"
+    },
+    {
+      "basename": "01_firewall-settings",
+      "path": "27_network-settings/01_firewall-settings.md"
+    },
+    {
+      "basename": "README",
+      "path": "02_player-installation/19_lg-webos/README.md"
     },
     {
       "basename": "installing-on-webos-20-to-32",
@@ -101,96 +193,12 @@
       "path": "02_player-installation/02_android/05_amazon-signage-stick.md"
     },
     {
-      "basename": "07_updating-sssp2-and-sssp3-firmware",
-      "path": "02_player-installation/43_samsung-sssp-and-tizen/07_updating-sssp2-and-sssp3-firmware.md"
-    },
-    {
-      "basename": "05_switch-to-digisigns-from-samsung-magic-info",
-      "path": "02_player-installation/43_samsung-sssp-and-tizen/05_switch-to-digisigns-from-samsung-magic-info.md"
-    },
-    {
-      "basename": "06_uninstall-apps-via-url-launcher-on-sssp2-and-sssp3",
-      "path": "02_player-installation/43_samsung-sssp-and-tizen/06_uninstall-apps-via-url-launcher-on-sssp2-and-sssp3.md"
-    },
-    {
       "basename": "Digisigns_Homepage",
       "path": "Digisigns_Homepage.png"
     },
     {
       "basename": "AmazonSignageDevices",
       "path": "AmazonSignageDevices.png"
-    },
-    {
-      "basename": "Amazon Signage Stick",
-      "path": "Amazon Signage Stick.png"
-    },
-    {
-      "basename": "02_how-to-create-accounts",
-      "path": "52_white-label/02_how-to-create-accounts.md"
-    },
-    {
-      "basename": "DigisignsDashboard",
-      "path": "DigisignsDashboard.png"
-    },
-    {
-      "basename": "01_home",
-      "path": "01_home.md"
-    },
-    {
-      "basename": "14_using-external-storage",
-      "path": "02_player-installation/02_android/14_using-external-storage.md"
-    },
-    {
-      "basename": "10_setting-up-onsign-tv-to-work-as-a-screen-saver-on-android",
-      "path": "02_player-installation/02_android/10_setting-up-onsign-tv-to-work-as-a-screen-saver-on-android.md"
-    },
-    {
-      "basename": "09_samsung-kiosk-manager-skm",
-      "path": "02_player-installation/02_android/09_samsung-kiosk-manager-skm.md"
-    },
-    {
-      "basename": "08_novastar-taurus-android",
-      "path": "02_player-installation/02_android/08_novastar-taurus-android.md"
-    },
-    {
-      "basename": "07_installing-philips-d-line-player-software",
-      "path": "02_player-installation/02_android/07_installing-philips-d-line-player-software.md"
-    },
-    {
-      "basename": "06_installing-iadea-player-software",
-      "path": "02_player-installation/02_android/06_installing-iadea-player-software.md"
-    },
-    {
-      "basename": "01_video-playback-decoder",
-      "path": "02_player-installation/01_video-playback-decoder.md"
-    },
-    {
-      "basename": "01_how-to-block-accounts",
-      "path": "52_white-label/01_how-to-block-accounts.md"
-    },
-    {
-      "basename": "02_installing-panasonic-player-software",
-      "path": "29_panasonic/02_installing-panasonic-player-software.md"
-    },
-    {
-      "basename": "01_connecting-a-player",
-      "path": "07_basic-player-operations/01_connecting-a-player.md"
-    },
-    {
-      "basename": "01_installing-raspberry-pi-player-software",
-      "path": "02_player-installation/41_raspberry-pi/01_installing-raspberry-pi-player-software.md"
-    },
-    {
-      "basename": "03_using-audio-files",
-      "path": "05_audio-content/03_using-audio-files.md"
-    },
-    {
-      "basename": "02_using-audio-ducking",
-      "path": "05_audio-content/02_using-audio-ducking.md"
-    },
-    {
-      "basename": "01_using-audio-announcement-app",
-      "path": "05_audio-content/01_using-audio-announcement-app.md"
     }
   ],
   "omittedPaths": [],

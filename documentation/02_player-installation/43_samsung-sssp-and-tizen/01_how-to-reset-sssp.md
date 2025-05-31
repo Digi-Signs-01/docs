@@ -1,5 +1,5 @@
 ---
-title: How To Reset Sssp
+title: How To Reset SSSP
 slug: how-to-reset-sssp
 publish: true
 date: 2025-05-03

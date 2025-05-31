@@ -1,5 +1,5 @@
 ---
-title: "Installing On Sssp2 And Sssp3"
+title: Installing On SSSP2 and SSSP3
 slug: installing-on-sssp2-and-sssp3
 publish: false
 date: 2025-05-03

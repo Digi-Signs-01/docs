@@ -49,11 +49,11 @@ Turn your monitor on and grab your remote to complete the following steps:
 Digisigns App Software Installation
 --------------------------------------
 
-At last, let’s download the dedicated OnSign TV Player App in Portrait Mode.
+At last, let’s download the dedicated Digisigns App in Portrait Mode.
 
 1. Press "Home".
 2. Go to "Change URL".
-3. Using the virtual keyboard or an USB attached keyboard, type the following address and press "Done": https://sssp.onsign.tv/portrait
+3. Using the virtual keyboard or an USB attached keyboard, type the following address and press "Done": https://https://digi-board.s3.ap-south-1.amazonaws.com/SSSP
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731442560832/portrait-mode-on-samsung-sssp_6.jpg)
 

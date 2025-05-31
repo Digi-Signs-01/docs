@@ -1,5 +1,5 @@
 ---
-title: Updating Lg Webos Firmware
+title: Updating LG WebOS Firmware
 slug: updating-lg-webos-firmware
 publish: true
 date: 2025-05-03

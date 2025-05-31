@@ -50,6 +50,6 @@ Below, you find the instructions to easily set up the OnSign TV Player App on yo
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731530643527/panasonic-how-to-install-onsign-tv_7.jpg)
 
-12. Wait till the installation is completed. Once it is finished, [[01_connecting-a-player]] as you would with any other hardware device device.
+12. Wait till the installation is completed. Once it is finished, [[01_connecting-app-to-dashboard]] as you would with any other hardware device device.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731530675113/panasonic-how-to-install-onsign-tv_8.jpg)

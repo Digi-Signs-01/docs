@@ -1,5 +1,5 @@
 ---
-title: Uninstalling From Lg Webos
+title: Uninstalling From LG WebOS
 slug: uninstalling-from-lg-webos
 publish: true
 date: 2025-05-03

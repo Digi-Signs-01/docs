@@ -1,5 +1,5 @@
 ---
-title: Reinstall Lg Webos
+title: Reinstall LG WebOS
 slug: reinstall-lg-webos
 publish: true
 date: 2025-05-03

@@ -53,7 +53,7 @@ Follow the steps below:
 
 1. Click the remote control **[Home button]**
 2. Go to “**URL Launcher Setting**”
-   3. Until Tizen 6.5: https://digisigns.in/SSSP4
-   4. From Tizen 7.0: https://digisigns.in/SSSP
+   3. Until Tizen 6.5: https://digi-board.s3.ap-south-1.amazonaws.com/sam/SSSP
+   4. From Tizen 7.0: https://digi-board.s3.ap-south-1.amazonaws.com/SSSP
 
 Once the URL is configured and entered, the Digisigns App will be installed and launched on the screen!

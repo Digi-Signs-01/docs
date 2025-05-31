@@ -1,5 +1,5 @@
 ---
-title: Rotating Screen On Webos 40
+title: Rotating Screen On WebOS 4.0
 slug: rotating-screen-on-webos-40
 publish: true
 date: 2025-05-03

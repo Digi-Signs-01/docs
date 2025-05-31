@@ -1,5 +1,5 @@
 ---
-title: "Uninstall Apps Via Url Launcher On Sssp2 And Sssp3"
+title: Uninstall Apps Via Url Launcher On SSSP2 And SSSP3
 slug: uninstall-apps-via-url-launcher-on-sssp2-and-sssp3
 publish: false
 date: 2025-05-03

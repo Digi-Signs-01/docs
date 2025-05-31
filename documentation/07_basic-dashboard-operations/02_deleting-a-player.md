@@ -1,5 +1,5 @@
 ---
-title: "Deleting A Player"
+title: Deleting the App
 slug: deleting-a-player
 publish: false
 date: 2025-05-03
