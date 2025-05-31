@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "06_rotating-screen-on-webos-40",
-      "path": "02_player-installation/19_lg-webos/06_rotating-screen-on-webos-40.md"
+      "basename": "README",
+      "path": "02_player-installation/43_samsung-sssp-and-tizen/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "02_player-installation/22_macos/README.md"
+    },
+    {
+      "basename": "08_updating-lg-webos-firmware",
+      "path": "02_player-installation/19_lg-webos/08_updating-lg-webos-firmware.md"
     },
     {
       "basename": "07_uninstalling-from-lg-webos",
       "path": "02_player-installation/19_lg-webos/07_uninstalling-from-lg-webos.md"
+    },
+    {
+      "basename": "06_rotating-screen-on-webos-40",
+      "path": "02_player-installation/19_lg-webos/06_rotating-screen-on-webos-40.md"
+    },
+    {
+      "basename": "05_rotating-screen-on-webos-20",
+      "path": "02_player-installation/19_lg-webos/05_rotating-screen-on-webos-20.md"
+    },
+    {
+      "basename": "04_reinstall-lg-webos",
+      "path": "02_player-installation/19_lg-webos/04_reinstall-lg-webos.md"
+    },
+    {
+      "basename": "03_installing-on-webos-40-to-60",
+      "path": "02_player-installation/19_lg-webos/03_installing-on-webos-40-to-60.md"
+    },
+    {
+      "basename": "02_installing-on-webos-20-to-32",
+      "path": "02_player-installation/19_lg-webos/02_installing-on-webos-20-to-32.md"
+    },
+    {
+      "basename": "README",
+      "path": "02_player-installation/19_lg-webos/README.md"
     },
     {
       "basename": "04_renaming-a-screen",
@@ -121,36 +153,12 @@
       "path": "02_player-installation/19_lg-webos/01_enable-wifi-connection.md"
     },
     {
-      "basename": "02_installing-on-webos-20-to-32",
-      "path": "02_player-installation/19_lg-webos/02_installing-on-webos-20-to-32.md"
-    },
-    {
-      "basename": "03_installing-on-webos-40-to-60",
-      "path": "02_player-installation/19_lg-webos/03_installing-on-webos-40-to-60.md"
-    },
-    {
-      "basename": "04_reinstall-lg-webos",
-      "path": "02_player-installation/19_lg-webos/04_reinstall-lg-webos.md"
-    },
-    {
-      "basename": "05_rotating-screen-on-webos-20",
-      "path": "02_player-installation/19_lg-webos/05_rotating-screen-on-webos-20.md"
-    },
-    {
-      "basename": "08_updating-lg-webos-firmware",
-      "path": "02_player-installation/19_lg-webos/08_updating-lg-webos-firmware.md"
-    },
-    {
       "basename": "02_using-china-proxy-server",
       "path": "27_network-settings/02_using-china-proxy-server.md"
     },
     {
       "basename": "01_firewall-settings",
       "path": "27_network-settings/01_firewall-settings.md"
-    },
-    {
-      "basename": "README",
-      "path": "02_player-installation/19_lg-webos/README.md"
     },
     {
       "basename": "installing-on-webos-20-to-32",
@@ -191,14 +199,6 @@
     {
       "basename": "05_amazon-signage-stick",
       "path": "02_player-installation/02_android/05_amazon-signage-stick.md"
-    },
-    {
-      "basename": "Digisigns_Homepage",
-      "path": "Digisigns_Homepage.png"
-    },
-    {
-      "basename": "AmazonSignageDevices",
-      "path": "AmazonSignageDevices.png"
     }
   ],
   "omittedPaths": [],

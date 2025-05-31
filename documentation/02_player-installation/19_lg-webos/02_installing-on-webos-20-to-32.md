@@ -1,5 +1,5 @@
 ---
-title: Installing On Webos 2.0 To 3.2
+title: Installing On WebOS 2.0 To 3.2
 slug: installing-on-webos-20-to-32
 publish: true
 date: 2025-05-03

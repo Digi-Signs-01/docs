@@ -1,5 +1,5 @@
 ---
-title: Installing On Webos 4.0 To 6.0
+title: Installing On WebOS 4.0 To 6.0
 slug: installing-on-webos-40-to-60
 publish: true
 date: 2025-05-03

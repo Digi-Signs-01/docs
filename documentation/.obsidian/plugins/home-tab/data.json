@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "02_player-installation/19_lg-webos/06_rotating-screen-on-webos-40.md",
-      "timestamp": 1748699863550
+      "filepath": "02_player-installation/43_samsung-sssp-and-tizen/README.md",
+      "timestamp": 1748700173535
+    },
+    {
+      "filepath": "02_player-installation/22_macos/README.md",
+      "timestamp": 1748700149872
+    },
+    {
+      "filepath": "02_player-installation/19_lg-webos/08_updating-lg-webos-firmware.md",
+      "timestamp": 1748700138955
     },
     {
       "filepath": "02_player-installation/19_lg-webos/07_uninstalling-from-lg-webos.md",
-      "timestamp": 1748699862009
+      "timestamp": 1748700138121
     },
     {
-      "filepath": "07_basic-dashboard-operations/04_renaming-a-screen.md",
-      "timestamp": 1748699635837
-    },
-    {
-      "filepath": "07_basic-dashboard-operations/03_signing-out-from-app.md",
-      "timestamp": 1748699627836
-    },
-    {
-      "filepath": "07_basic-dashboard-operations/05_replacing-a-hardware-device.md",
-      "timestamp": 1748699561937
+      "filepath": "02_player-installation/19_lg-webos/06_rotating-screen-on-webos-40.md",
+      "timestamp": 1748700135453
     }
   ],
   "bookmarkedFileStore": [],

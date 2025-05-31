@@ -1,5 +1,5 @@
 ---
-title: "Lg Webos"
+title: LG WebOS
 slug: lg-webos
 date: 2025-05-03
 update: 2025-05-03
