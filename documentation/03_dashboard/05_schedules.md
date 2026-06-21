@@ -28,6 +28,8 @@ the target **Screens** and **Groups**, the **Start time** and **End time**, and 
 
 ## Creating a schedule
 
+![The Create Schedule form — name, start/end time, playlist, screens, and repeat frequency](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/dashboard/create-schedule.png)
+
 1. Click **New Schedule** (top right).
 2. Name the schedule.
 3. Choose the **content** to play (a playlist or media item).

@@ -31,6 +31,8 @@ assign it to screens.
 
 ## Creating a playlist
 
+![The playlist editor — name the playlist, then add and order media from your library](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/dashboard/create-playlist.png)
+
 1. Click **Create Playlist** (top right).
 2. Give the playlist a name.
 3. Add items from your [Media](03_media.md) library — images, videos, web links, YouTube,
