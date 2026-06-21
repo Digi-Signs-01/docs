@@ -16,6 +16,43 @@ hide:
 # Getting Started with Digisigns
 
 Welcome to Digisigns, your complete cloud-based digital signage solution. This comprehensive guide will walk you through everything you need to know to transform your screens into powerful communication tools that captivate your audience and drive engagement.
+
+<div class="grid cards" markdown>
+
+-   :material-monitor-dashboard:{ .lg .middle } &nbsp; **Install a player**
+
+    ---
+
+    Set up Digisigns on Android, LG, Samsung, NovaStar, Windows, or macOS.
+
+    [:octicons-arrow-right-24: App Installation](02_player-installation/README.md)
+
+-   :material-view-dashboard-outline:{ .lg .middle } &nbsp; **Dashboard basics**
+
+    ---
+
+    Add, rename, and manage your screens from the dashboard.
+
+    [:octicons-arrow-right-24: Dashboard operations](07_basic-dashboard-operations/README.md)
+
+-   :material-shield-lock-outline:{ .lg .middle } &nbsp; **Network & firewall**
+
+    ---
+
+    Whitelist the endpoints your players need to reach.
+
+    [:octicons-arrow-right-24: Network settings](27_network-settings/README.md)
+
+-   :material-rocket-launch-outline:{ .lg .middle } &nbsp; **Start a free trial**
+
+    ---
+
+    Create a Digisigns account and pair your first screen.
+
+    [:octicons-arrow-right-24: digisigns.in](https://digisigns.in)
+
+</div>
+
 ## Introduction to Digisigns
 
 Digisigns is a powerful cloud-based digital signage platform that allows you to create, manage, and display dynamic content across multiple screens from a single dashboard. Our solution empowers businesses of all sizes to craft engaging digital experiences that captivate audiences and deliver measurable results.

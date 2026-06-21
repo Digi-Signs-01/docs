@@ -48,7 +48,7 @@ theme:
     text: Inter
     code: Roboto Mono
   custom_dir: overrides
-  logo: favicon.png
+  logo: digisigns-logo.svg
   favicon: favicon.png
 
   palette:
