@@ -45,6 +45,10 @@ Digisigns server in **ViPlex Express** (Windows).
 
 6. Click **Bind**.
 
+![ViPlex Express — Bind to VNNOX Standard/AD](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/novastar-taurus/novastar-bind-server.png)
+
+_The Bind to VNNOX Standard/AD dialog in ViPlex Express._
+
 The player registers with the Digisigns server within a minute. Next, add it to your
 account — see [Pairing in the Digisigns dashboard](03_pairing-in-the-digisigns-dashboard.md).
 

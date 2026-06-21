@@ -50,5 +50,9 @@ wireless network.
    local network.)
 5. Click **Apply** to save.
 
+![ViPlex Express — Wi-Fi Network configuration](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/novastar-taurus/novastar-wifi-network.png)
+
+_The Wi-Fi Network tab in ViPlex Express._
+
 Once the player has internet access, continue to
 [Binding to the Digisigns server](02_binding-to-the-digisigns-server.md).
