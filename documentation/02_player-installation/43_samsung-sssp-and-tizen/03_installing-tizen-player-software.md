@@ -40,7 +40,7 @@ installed on regular Samsung Smart TVs**.
 2. **Check the device date and time.** Incorrect settings cause SSL validation to fail,
    blocking the connection to our servers.
 3. **Firewall:** make sure your network complies with our
-   [firewall requirements](/27_network-settings/01_firewall-settings).
+   [firewall requirements](../../27_network-settings/01_firewall-settings.md).
 
 > [!info] Application hosting URL
 > Type this URL exactly, including `https://`:
@@ -61,7 +61,7 @@ steps is the most common cause of a failed install.
 
 > [!note]
 > If the display was previously configured for another CMS,
-> [reset it](/02_player-installation/43_samsung-sssp-and-tizen/01_how-to-reset-sssp)
+> [reset it](01_how-to-reset-sssp.md)
 > before continuing so no residual configuration interferes.
 
 ## Install via URL Launcher
@@ -103,12 +103,12 @@ The exact menu wording depends on your platform version.
 > Use the same URL — `https://digisigns.in/s` — for both orientations; there is no
 > separate portrait build. For a portrait installation, rotate the panel in the
 > display's settings — see
-> [Rotating the screen](/02_player-installation/43_samsung-sssp-and-tizen/04_rotating-the-screen-portrait).
+> [Rotating the screen](04_rotating-the-screen-portrait.md).
 
 > [!note] Don't see URL Launcher?
 > If pressing **Home** loads **MagicINFO** instead of the URL Launcher / Custom App
 > option, the panel is set to boot MagicINFO. See
-> [Switch to Digisigns from Samsung MagicINFO](/02_player-installation/43_samsung-sssp-and-tizen/05_switch-to-digisigns-from-samsung-magic-info)
+> [Switch to Digisigns from Samsung MagicINFO](05_switch-to-digisigns-from-samsung-magic-info.md)
 > to change Play Via, then return here.
 
 ![Play Via — switch from MagicINFO](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/samsung-tizen/samsung-08-play-via.jpg)

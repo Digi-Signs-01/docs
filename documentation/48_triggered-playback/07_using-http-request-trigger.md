@@ -1,5 +1,5 @@
 ---
-title: "Using Http Request Trigger"
+title: 'Using Http Request Trigger'
 slug: using-http-request-trigger
 publish: false
 date: 2025-05-03
@@ -9,12 +9,11 @@ categories:
   - start
 ---
 
-Using HTTP Request Trigger
-==========================
+# Using HTTP Request Trigger
 
-When you publish an on-demand Content to Android and Windows, but also other  Players, it is possible to trigger the Content by clicking the “Play" icon on the Content in Player page in your OnSign TV account, or through an **HTTP request**.
+When you publish an on-demand Content to Android and Windows, but also other  Players, it is possible to trigger the Content by clicking the “Play" icon on the Content in Player page in your Digisigns account, or through an **HTTP request**.
 
-Do you not know yet what an on-demand Content is? Check out the tutorial on [playing on-demand Content](/triggered-playback/playing-on-demand-content).
+Do you not know yet what an on-demand Content is? Check out the tutorial on [playing on-demand Content](04_playing-on-demand-content.md).
 
 In this tutorial, we explain how to obtain the Content on-demand URL and how to trigger it on screen to desired parameters:
 
@@ -55,7 +54,7 @@ $ curl 'https://app.onsign.tv/play/VL3GR4qlL7ZcdHLOF4O0?repeat=0&info=1234'
 
 By default, playback of the Content starts as soon as the Playback URL is accessed, interrupting whatever is currently playing, be it either scheduled or other on-demand Content.
 
-The OnSign TV Player version 7.0.3 or greater for Android devices adds new ways of playing Content on-demand, through the action parameter.
+The Digisigns Player version 7.0.3 or greater for Android devices adds new ways of playing Content on-demand, through the action parameter.
 
 |  |  |
 | --- | --- |

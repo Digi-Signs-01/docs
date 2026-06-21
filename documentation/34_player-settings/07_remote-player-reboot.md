@@ -1,5 +1,5 @@
 ---
-title: "Remote Player Reboot"
+title: 'Remote Player Reboot'
 slug: remote-player-reboot
 publish: false
 date: 2025-05-03
@@ -9,23 +9,22 @@ categories:
   - start
 ---
 
-Remote Player reboot
-====================
+# Remote Player reboot
 
 As any computer...
 
-Just like rebooting your Player when it shows hardware trouble, you can also restart the OnSign TV Player App when the software experiences difficulties. This works just like restarting a computer. It gives the App a fresh start, relieving it from clutter.
+Just like rebooting your Player when it shows hardware trouble, you can also restart the Digisigns Player App when the software experiences difficulties. This works just like restarting a computer. It gives the App a fresh start, relieving it from clutter.
 
-No need to physically go to the device. All you need is an internet connection to access your OnSign TV account and of course the Player needs to be online as well. It is particularly handy, when managing a digital signage network with several locations.
+No need to physically go to the device. All you need is an internet connection to access your Digisigns account and of course the Player needs to be online as well. It is particularly handy, when managing a digital signage network with several locations.
 
 For Android devices, this feature is only available if:
 
-* The device is rooted.
-* It has a compatible OnSign TV [Signage Platform Module (SPM)](/android/signage-platform-module-spm) installed.
+- The device is rooted.
+- It has a compatible Digisigns [Signage Platform Module (SPM)](../02_player-installation/02_android/11_signage-platform-module-spm.md) installed.
 
 If neither options are available, the app will simply restart.
 
-1. In your OnSign TV [account](https://app.onsign.tv/content/), select the device from the “Players” tab.
+1. In your Digisigns [account](https://app.onsign.tv/content/), select the device from the “Players” tab.
 2. Choose “Settings” from the menu on the left.
 3. You see the “Reboot” button on the top of the page. You will have the option to reboot the Player or Restart the Application (clicking on the arrow). "Restart the Application".
 

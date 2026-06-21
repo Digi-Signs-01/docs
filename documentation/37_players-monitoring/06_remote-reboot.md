@@ -1,5 +1,5 @@
 ---
-title: "Remote Reboot"
+title: 'Remote Reboot'
 slug: remote-reboot
 publish: false
 date: 2025-05-03
@@ -9,12 +9,11 @@ categories:
   - start
 ---
 
-Remote reboot
-=============
+# Remote reboot
 
-If your Player hardware starts to show limitations, such as constant crashes, use an advanced feature to reboot the device from the convenience of your OnSign TV account instead of having to manually reboot the device. All you need is an internet connection to access your OnSign TV account. It is certainly handy, particularly if you manage a digital signage network with several locations and cannot reboot devices manually.
+If your Player hardware starts to show limitations, such as constant crashes, use an advanced feature to reboot the device from the convenience of your Digisigns account instead of having to manually reboot the device. All you need is an internet connection to access your Digisigns account. It is certainly handy, particularly if you manage a digital signage network with several locations and cannot reboot devices manually.
 
-This feature is primarily available for Android devices compatible with the OnSign TV [Signage Platform Module (SPM)](/android/signage-platform-module-spm).
+This feature is primarily available for Android devices compatible with the Digisigns [Signage Platform Module (SPM)](../02_player-installation/02_android/11_signage-platform-module-spm.md).
 
 1. In your account, select the device from the “Players” tab.
 2. Click “Settings” on the menu on the left.
@@ -22,4 +21,4 @@ This feature is primarily available for Android devices compatible with the OnSi
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731688422566/how-to-remotely-reboot-player_1.png)
 4. Confirm the action in the pop-up window.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731688436336/how-to-remotely-reboot-player_2.png)
-5. The device will start to reboot. This action will be listed in the [Player Status](/players-monitoring/monitoring-events) as “**Player rebooting as requested**”, followed by the event confirming that the “Player booted as requested”.
+5. The device will start to reboot. This action will be listed in the [Player Status](02_monitoring-events.md) as “**Player rebooting as requested**”, followed by the event confirming that the “Player booted as requested”.

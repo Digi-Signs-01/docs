@@ -14,7 +14,7 @@ Adjust Campaign duration
 
 By default, the duration of a Campaign is set to 30 seconds, but you can easily make the Campaign length shorter or longer depending on your needs.
 
-1. Create a [new Campaign](/create-your-first-campaign/how-to-create-a-campaign) or edit an existing one. Scroll down to the Timeline section.
+1. Create a [new Campaign](05_how-to-create-a-campaign.md) or edit an existing one. Scroll down to the Timeline section.
 2. Update the Timeline length with one of the following methods:
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731613334958/campaign-duration-new1.jpg)

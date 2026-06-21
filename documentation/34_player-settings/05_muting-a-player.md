@@ -1,5 +1,5 @@
 ---
-title: "Muting A Player"
+title: 'Muting A Player'
 slug: muting-a-player
 publish: false
 date: 2025-05-03
@@ -9,8 +9,7 @@ categories:
   - start
 ---
 
-Muting a Player
-===============
+# Muting a Player
 
 Depending on the display location, visual-only information is exactly what you need.
 
@@ -18,23 +17,23 @@ What is the use of audio in a crowded place, such as a train station or a busy a
 
 ### Mute a specific device:
 
-1. In your OnSign TV account, click on the "Players" tab.
+1. In your Digisigns account, click on the "Players" tab.
 2. Select the device.
 3. From the menu on the left, select “Settings”.
 4. Scroll till you reach the "Player Settings" section. Check the “Mute audio” box. This will mute all Content, independently of their settings.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731531301147/muting-a-player_1.png)
 
-5. Note, that in a Campaign it is also possible to mute the content of specific screen layout zones. You can read about this in the [Campaign audio tutorial](/create-your-first-campaign/adding-an-audio-track).
+5. Note, that in a Campaign it is also possible to mute the content of specific screen layout zones. You can read about this in the [Campaign audio tutorial](../14_create-your-first-campaign/01_adding-an-audio-track.md).
 6. Don’t forget to confirm to “Save Changes” at the very bottom before leaving the Player page.
 
 ### Mute multiple devices:
 
 If you need to mute a cluster of devices, you can also apply this same setting to a Player Group.
 
-Furthermore, you can also mute Players across your whole OnSign TV account:
+Furthermore, you can also mute Players across your whole Digisigns account:
 
-1. Click on your username in the bottom-left corner of your OnSign TV account.
+1. Click on your username in the bottom-left corner of your Digisigns account.
 2. Select “Settings”.
 3. From the menu on the left, select “Default Player Settings”.
 4. This "Player Settings" section looks like the settings of an individual Player. Look for "Mute Audio". Mark “Mute Audio”. Then, click on the "Apply" button on the left to select the Players or Player Groups to which you wish to apply this settings to.

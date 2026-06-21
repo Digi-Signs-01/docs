@@ -1,5 +1,5 @@
 ---
-title: "Managing Published Content"
+title: 'Managing Published Content'
 slug: managing-published-content
 publish: false
 date: 2025-05-03
@@ -9,12 +9,11 @@ categories:
   - start
 ---
 
-Managing published Content
-==========================
+# Managing published Content
 
 You can manage Content which is already published to a Player at any time, either on the page of a specific device or in a Group of Players.
 
-1. In your OnSign TV account, select the Player or Player Group you want to review. You can select them by clicking on the tabs "Players" or "Player Groups" in the panel on the left.
+1. In your Digisigns account, select the Player or Player Group you want to review. You can select them by clicking on the tabs "Players" or "Player Groups" in the panel on the left.
 2. Select a Player or Player Group.
 3. On the Player or Player Group page, select "Content in Player" or "Content in Group" from the menu.
 4. On this page you can check out all Campaigns, Playlists, and individual Content published to this specific device or group, including the time, date, and location restrictions.  
@@ -26,13 +25,13 @@ You can manage Content which is already published to a Player at any time, eithe
 
 This option puts your Content on hold and prevents it from being shown on screen, while keeping it stored on the device's internal storage. Use it when you want to resume to showing a Content again soon and wish to generally save the publishing settings of the Content, for example when you need to make a brief edit.
 
-More on pausing Content [here](/basics-publishing/pausing-content-playback).
+More on pausing Content [here](06_pausing-content-playback.md).
 
 **Unpublish Content**
 
 With this action, you remove a piece of Content permanently from the device (but not from the web account, of course). Use it when you will no longer show this Content and would like to free storage space on the device for other Content.
 
-More on unpublishing Content [here](/basics-publishing/unpublishing-content).
+More on unpublishing Content [here](11_unpublishing-content.md).
 
 **Reorder Content sequence**
 
@@ -40,7 +39,7 @@ Adjust the sequence in which your Campaigns, Playlists, and individual Content p
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731690677206/managing-published-content-3.jpg)
 
-More on reordering Content [here](/basics-publishing/reordering-content).
+More on reordering Content [here](10_reordering-content.md).
 
 **Edit restrictions**
 
@@ -50,11 +49,11 @@ When publishing Content, you may have applied time, date and other restrictions.
 
 Here is one important distinction: Restrictions can be set when publishing Content onto a Player or they can be set very generally on the piece of Content itself. In the Content in Player, you may therefore see two restriction information boxes. The one on top are the restrictions which are set during publishing onto the Player. These you can change in the Content in Player page which this tutorial is about.
 
-More on publishing restrictions [here](/basics-publishing/publish-content-with-restrictions).
+More on publishing restrictions [here](08_publish-content-with-restrictions.md).
 
 If a Content has a restriction on itself, you will see a thin line and another restrictions box. It will say "Restrictions from [name of the Content]". These restrictions you cannot change in the Content in Player page which this tutorial is about. These restrictions you can only change from the Content page.
 
-More on restrictions on Content [here](/basics-publishing/adding-restrictions-to-content).
+More on restrictions on Content [here](01_adding-restrictions-to-content.md).
 
 **Trigger on-demand Content**
 

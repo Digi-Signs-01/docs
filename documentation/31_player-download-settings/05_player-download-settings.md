@@ -23,7 +23,7 @@ This behavior can be changed to:
 See Also
 --------
 
-* [Content update interval](/player-download-settings/content-update-interval)
-* [Content update frequency (Data Feeds and RSS)](/player-download-settings/content-update-frequency-data-feeds-and-rss)
-* [Content download schedule](/player-download-settings/content-download-schedule)
-* [Download content ahead time](/player-download-settings/download-content-ahead-time)
+* [Content update interval](03_content-update-interval.md)
+* [Content update frequency (Data Feeds and RSS)](02_content-update-frequency-data-feeds-and-rss.md)
+* [Content download schedule](01_content-download-schedule.md)
+* [Download content ahead time](04_download-content-ahead-time.md)

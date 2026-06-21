@@ -1,5 +1,5 @@
 ---
-title: "Tracking Content Usage"
+title: 'Tracking Content Usage'
 slug: tracking-content-usage
 publish: false
 date: 2025-05-03
@@ -9,14 +9,13 @@ categories:
   - start
 ---
 
-Tracking content usage
-======================
+# Tracking content usage
 
 Quickly browse where media Files, Apps, Campaigns, and Playlists are used and displayed.
 
 To check out exactly where each of your files are displayed, you can visualize file usage in Campaigns, Playlists, and Players:
 
-1. In your OnSign TV account, click “Content” on the sidebar menu.
+1. In your Digisigns account, click “Content” on the sidebar menu.
 2. Select any item in your account, be it a File, App, Campaign, or Playlist.
 3. Right-click over the selected icon and select "Show Usage".
 
@@ -25,8 +24,8 @@ To check out exactly where each of your files are displayed, you can visualize f
 4. A new pop-up window will show where this item is displayed. There are two tabs which classify the playback as "direct" or "indirect":  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731591257659/how-to-track-content-usage_2.png)
 
-* Direct Usage: This is the first instance you added this item.
-* Indirect Usage: Here are other locations this item appears.
+- Direct Usage: This is the first instance you added this item.
+- Indirect Usage: Here are other locations this item appears.
 
 Let's go through two examples to make the difference clear:
 
@@ -36,6 +35,6 @@ Example 2: Now, let's say you have a **Campaign**, you published to one device b
 
 5. If you wish to remove the Content from any instance, you can click on the tile to go straight into the right page and edit from there.
 
-* Clicking on a Campaign will load the [Campaign editor page](/create-your-first-campaign/how-to-create-a-campaign).
-* Clicking on the Playlist will lead to the [Playlist editor page](/basics-playlist/creating-a-playlist).
-* Clicking on a Player will redirect to the [Content in Player page](/basics-publishing/reordering-content).
+- Clicking on a Campaign will load the [Campaign editor page](../14_create-your-first-campaign/05_how-to-create-a-campaign.md).
+- Clicking on the Playlist will lead to the [Playlist editor page](../08_basics-playlist/03_creating-a-playlist.md).
+- Clicking on a Player will redirect to the [Content in Player page](../09_basics-publishing/10_reordering-content.md).

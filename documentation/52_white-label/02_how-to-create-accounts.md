@@ -1,5 +1,5 @@
 ---
-title: "How To Create Accounts"
+title: 'How To Create Accounts'
 slug: how-to-create-accounts
 publish: false
 date: 2025-05-03
@@ -9,8 +9,7 @@ categories:
   - start
 ---
 
-How to create accounts
-======================
+# How to create accounts
 
 Manage several accounts for reselling.
 
@@ -21,11 +20,11 @@ In your branded digital signage account, you can create sub-accounts for your cl
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731666904805/how-to-create-accounts_1.png)
 3. Click the “Add Organization”button on the top-right corner.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731666943819/how-to-create-accounts_2.png)
-4. Fill out the client's info into the blanks. Here, you need to set the amount of Players your client will receive. You can always [edit this setting later on](/white-label/how-to-edit-accounts).
+4. Fill out the client's info into the blanks. Here, you need to set the amount of Players your client will receive. You can always [edit this setting later on](03_how-to-edit-accounts.md).
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731666984727/how-to-create-accounts_3.png)
 
-NOTE: If you don't have any vacant Player licenses available in your account, you need to [adjust your subscription](/billing/adjust-the-number-of-player-licenses).
+NOTE: If you don't have any vacant Player licenses available in your account, you need to [adjust your subscription](../10_billing/01_adjust-the-number-of-player-licenses.md).
 
 You can also define whether the client will be able to set their logo on their Player App as shown in the image below. The logo will only appear when there is no Content playback.
 
@@ -37,5 +36,4 @@ The new user will be listed under "Orgs". You can check the client’s main acco
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731667080938/how-to-create-accounts_5.png)
 
-OnSign TV Academy - White Label
--------------------------------
+## Digisigns Academy - White Label

@@ -1,5 +1,5 @@
 ---
-title: "Adding Logos Or Footer Mask"
+title: 'Adding Logos Or Footer Mask'
 slug: adding-logos-or-footer-mask
 publish: false
 date: 2025-05-03
@@ -9,8 +9,7 @@ categories:
   - start
 ---
 
-Adding logos or footer (mask)
-=============================
+# Adding logos or footer (mask)
 
 Let's say you have a logo and you would like to display it on every Content you publish.
 
@@ -22,14 +21,13 @@ A "Campaign Mask" is a special attribute you can set to each Player, selecting a
 
 The idea is simple! Imagine you cut a piece of paper and put it on top of your screen. First thing to think about is, you would need to leave open areas not to cover the entire screen. Therefore, leave transparent areas while creating a Campaign to be used as the Mask.
 
-You can get [transparent areas either by using a PNG with transparency](/media/transparent-image-background), or by creating a Campaign which does not use the full screen. For this tutorial, we created a PNG image containing a frame and the OnSign TV logo:
+You can get [transparent areas either by using a PNG with transparency](../25_media/13_transparent-image-background.md), or by creating a Campaign which does not use the full screen. For this tutorial, we created a PNG image containing a frame and the Digisigns logo:
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731535681942/campaign-mask-to-add-logos-or-footers-to-your-player_1.jpg)
 
 Once the Campaign Mask is set to work like an overlay on a specific Player, this Campaign will always be displayed on top of all Content shown on the target device. To remove it, just clear the Campaign Mask setting from your Player.
 
-How to set the Campaign Mask:
------------------------------
+## How to set the Campaign Mask:
 
 1. Click on the Players tab.
 2. Select the Player where you would like to add the Campaign Mask to.
@@ -48,5 +46,4 @@ How to set the Campaign Mask:
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731535799138/campaign-mask-to-add-logos-or-footers-to-your-player_5.png)
 
-Expert Tips - Content Mask Advertising
---------------------------------------
+## Expert Tips - Content Mask Advertising

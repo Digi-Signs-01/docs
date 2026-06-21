@@ -1,5 +1,5 @@
 ---
-title: "Publish Content With Restrictions"
+title: 'Publish Content With Restrictions'
 slug: publish-content-with-restrictions
 publish: false
 date: 2025-05-03
@@ -9,14 +9,13 @@ categories:
   - start
 ---
 
-Publish Content with restrictions
-=================================
+# Publish Content with restrictions
 
 With publishing rules, you can control the time your Content plays. You can limit it to a date, days of the week, or even hours.
 
-For a refresher on the basics of publishing, [click here](/basics-publishing/basic-content-publishing).
+For a refresher on the basics of publishing, [click here](02_basic-content-publishing.md).
 
-1. In your OnSign TV account, select a piece of Content and choose “Publish” from the menu options.
+1. In your Digisigns account, select a piece of Content and choose “Publish” from the menu options.
 2. On the page which opens, click the Publish button in the top-right corner.
 3. Choose the Player you want to display the Content on.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731690077476/publish-content-for-a-period-of-time_1.png)
@@ -25,13 +24,12 @@ For a refresher on the basics of publishing, [click here](/basics-publishing/bas
 5. Then click the blue "Add Restriction" button. Change the radio checkbox from "Always Play" to "During a Period of Time".  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731690107000/publish-content-for-a-period-of-time_3.png)
 6. Here you can adjust:
-   * Days of the week, from Sunday to Saturday.
-   * Specific periods of time in hours, minutes, and seconds.
-   * Day, month, and year it should start and finish playing. You can also leave this field blank, configuring the content to start today without an end date.
+   - Days of the week, from Sunday to Saturday.
+   - Specific periods of time in hours, minutes, and seconds.
+   - Day, month, and year it should start and finish playing. You can also leave this field blank, configuring the content to start today without an end date.
 7. Confirm this configuration with the orange “Apply” button at the bottom-right corner. Then confirm once more with the "Publish" button.
 8. Your Content is successfully published to your Player. All playback information is shown next to the Player thumbnail. Note that the restriction you just created is valid only on the selected Player.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731690136555/publish-content-for-a-period-of-time_4.png)
 
-OnSign TV Academy - Content Publishing and Playback Rules
----------------------------------------------------------
+## Digisigns Academy - Content Publishing and Playback Rules

@@ -53,6 +53,6 @@ You can unpublish Content from all devices in two quick steps. This works for ev
 3. Right-click on the item.
 4. Select "Unpublish" from the pop-up menu.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731692115635/unpublish-content_5.png)
-5. Confirm the action. Note, this cannot be undone. You need to [publish your Content again](/basics-publishing/basic-content-publishing), if you want it playing again.  
+5. Confirm the action. Note, this cannot be undone. You need to [publish your Content again](02_basic-content-publishing.md), if you want it playing again.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731692129632/unpublish-content_6.png)
 6. Your Content is now removed from all Players.

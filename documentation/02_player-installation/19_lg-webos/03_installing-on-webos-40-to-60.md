@@ -13,7 +13,7 @@ categories:
 
 This guide covers installing the **Digisigns Signage Player** on LG commercial signage displays running **webOS Signage 4.0, 4.1, and 6.0**. It covers the standard remote (cloud) install, the USB offline method, and removing any pre-installed signage apps first.
 
-[Refer to this tutorial](/02_player-installation/19_lg-webos/02_installing-on-webos-20-to-32) for instructions on **LG webOS 2.0, 3.0**, and **3.2** instead.
+[Refer to this tutorial](02_installing-on-webos-20-to-32.md) for instructions on **LG webOS 2.0, 3.0**, and **3.2** instead.
 
 ## Supported LG signage models
 
@@ -30,11 +30,11 @@ Missing any one of these is the most common cause of a failed install:
 1. **Remove any existing signage software** (ScreenCloud, Digisigns, LG SuperSign) — see [Removing pre-installed signage apps](#removing-pre-installed-signage-apps) below.
 2. **Working internet connection** (Ethernet LAN strongly recommended).
 3. **Correct date and time** on the display. Incorrect settings cause SSL validation to fail, blocking the connection to our servers.
-4. **Firewall whitelisting** completed — check the [firewall requirements](/27_network-settings/01_firewall-settings).
-5. **Latest firmware** installed. If the **Application Type: IPK** option is missing in Step 3, [update the firmware](/02_player-installation/19_lg-webos/08_updating-lg-webos-firmware) first.
+4. **Firewall whitelisting** completed — check the [firewall requirements](../../27_network-settings/01_firewall-settings.md).
+5. **Latest firmware** installed. If the **Application Type: IPK** option is missing in Step 3, [update the firmware](08_updating-lg-webos-firmware.md) first.
 
 > [!warning] Firmware check
-> webOS 4.0 and above is required for the IPK installation method. To check the version, go to **Settings → General → About this Device**. If your display predates webOS 4.0, use the [webOS 2.0–3.2 guide](/02_player-installation/19_lg-webos/02_installing-on-webos-20-to-32) instead.
+> webOS 4.0 and above is required for the IPK installation method. To check the version, go to **Settings → General → About this Device**. If your display predates webOS 4.0, use the [webOS 2.0–3.2 guide](02_installing-on-webos-20-to-32.md) instead.
 
 ## Installation — remote (recommended)
 
@@ -138,10 +138,10 @@ If the delete icon is not available (some locked-down firmwares), open **SI Serv
 
 ## Troubleshooting
 
-- **'Application Type: IPK' is missing** — the firmware is older than webOS 4.0. [Update the firmware](/02_player-installation/19_lg-webos/08_updating-lg-webos-firmware), then retry.
-- **'Connection failed' or SSL error** — wrong date/time (enable _Set Automatically_), or a firewall is blocking `www.digisigns.in` (see the [firewall requirements](/27_network-settings/01_firewall-settings)).
+- **'Application Type: IPK' is missing** — the firmware is older than webOS 4.0. [Update the firmware](08_updating-lg-webos-firmware.md), then retry.
+- **'Connection failed' or SSL error** — wrong date/time (enable _Set Automatically_), or a firewall is blocking `www.digisigns.in` (see the [firewall requirements](../../27_network-settings/01_firewall-settings.md)).
 - **Blank screen after Upgrade Complete** — set **Application Launch Mode** to **Local**, save, and reboot.
 - **The old signage app still shows** — it was not fully removed; uninstall it, perform a factory reset, and reinstall.
 - **Pairing fails** — enter the code within 10 minutes (codes expire); reboot the display to generate a new one.
 
-To remove Digisigns later, see [Uninstalling from LG webOS](/02_player-installation/19_lg-webos/07_uninstalling-from-lg-webos). Need help? Email **support@digisigns.in**.
+To remove Digisigns later, see [Uninstalling from LG webOS](07_uninstalling-from-lg-webos.md). Need help? Email **support@digisigns.in**.

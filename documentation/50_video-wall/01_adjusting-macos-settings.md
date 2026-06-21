@@ -1,5 +1,5 @@
 ---
-title: "Adjusting Macos Settings"
+title: 'Adjusting Macos Settings'
 slug: adjusting-macos-settings
 publish: false
 date: 2025-05-03
@@ -9,12 +9,11 @@ categories:
   - start
 ---
 
-Adjusting MacOS settings
-========================
+# Adjusting MacOS settings
 
 Change the MacOS display settings to showcase Content on Video Walls.
 
-After [building your Video Wall](/video-wall/how-to-build-a-video-wall) on a MacOS system, you still need to adjust your computer settings so the Content is displayed on all screens. Follow the instructions below and you will have your Video Wall up and running in no time:
+After [building your Video Wall](07_how-to-build-a-video-wall.md) on a MacOS system, you still need to adjust your computer settings so the Content is displayed on all screens. Follow the instructions below and you will have your Video Wall up and running in no time:
 
 1. Click on the "System Preferences" icon on your Mac desktop and select “Displays”.
 
@@ -32,4 +31,4 @@ After [building your Video Wall](/video-wall/how-to-build-a-video-wall) on a Mac
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731674951065/adjust-mac-os-x-settings-for-video-wall_4.png)
 
-5. Next time you open the OnSign TV  Player App, right-click and hit “Extended fullscreen - Multi monitor”. The Content will expand to the whole Video Wall setup.
+5. Next time you open the Digisigns  Player App, right-click and hit “Extended fullscreen - Multi monitor”. The Content will expand to the whole Video Wall setup.

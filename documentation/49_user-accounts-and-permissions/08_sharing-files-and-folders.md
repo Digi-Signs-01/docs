@@ -12,7 +12,7 @@ categories:
 Sharing files and folders
 =========================
 
-Understand types of Folders and how you can organize and share Content with [other users](/user-accounts-and-permissions/creating-additional-users).
+Understand types of Folders and how you can organize and share Content with [other users](02_creating-additional-users.md).
 
 User's Folder
 -------------

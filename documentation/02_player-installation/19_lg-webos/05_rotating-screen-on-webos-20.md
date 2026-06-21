@@ -14,7 +14,7 @@ Rotating screen on webOS 2.0
 
 If you deploy digital signage through LG webOS 2.0 screens, adjust the device settings in order to display your Content in Portrait Mode. Turn on your screen and follow the instructions below:
 
-LG webOS 3.0 and 3.2 devices are set to Portrait Mode during the Digisigns App setup. Read here [how to install Digisigns on LG webOS 2.0 - 3.2](/02_player-installation/19_lg-webos/02_installing-on-webos-20-to-32).
+LG webOS 3.0 and 3.2 devices are set to Portrait Mode during the Digisigns App setup. Read here [how to install Digisigns on LG webOS 2.0 - 3.2](02_installing-on-webos-20-to-32.md).
 
 1. Hold the "Settings" button pressed until a rectangular box pops up in the top-right corner of the screen.
 

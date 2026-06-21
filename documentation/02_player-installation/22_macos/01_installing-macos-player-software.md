@@ -24,4 +24,4 @@ Follow the instructions:
 2. Copy the App to Applications folder and begin with the installation setup.
 3. When this is done, the Digisigns App will automatically start every time the OS open.
 
-You are almost ready to showcase your content! The final step is to [connect your App to your Digisigns Dashboard](01_connecting-app-to-dashboard.md).
+You are almost ready to showcase your content! The final step is to [connect your App to your Digisigns Dashboard](../../07_basic-dashboard-operations/01_connecting-app-to-dashboard.md).

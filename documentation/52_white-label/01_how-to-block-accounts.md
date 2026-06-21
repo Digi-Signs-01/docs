@@ -40,4 +40,4 @@ When the conflict is resolved, you can re-activate the account anytime. Search f
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731667913687/how-to-block-accounts_6.png)
 
-The only way of stopping the user’s digital signage operation completely is by [removing their account](/white-label/how-to-remove-accounts).
+The only way of stopping the user’s digital signage operation completely is by [removing their account](05_how-to-remove-accounts.md).

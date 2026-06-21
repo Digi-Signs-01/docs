@@ -23,4 +23,4 @@ The HDMI Input App will only work on a list of selected hardwares:
 * LG webOS 3.0 - 6.0
 * BrightSign with HDMI IN port: models XT1143, XT1144-T, XT1145, and XT2145
 
-And here is how you use it with the [HDMI Input App](/media-entertainment-apps/displaying-live-tv-hdmi-input).
+And here is how you use it with the [HDMI Input App](02_displaying-live-tv-hdmi-input.md).

@@ -25,4 +25,4 @@ Follow the steps below:
 4. Open the downloaded archive and begin with the installation setup.
 5. Once you are done, the Digisigns App will be displayed on your desktop.
 
-You are almost ready to showcase your content! The final step is to [connect your App to your Digisigns Dashboard](01_connecting-app-to-dashboard.md).
+You are almost ready to showcase your content! The final step is to [connect your App to your Digisigns Dashboard](../../07_basic-dashboard-operations/01_connecting-app-to-dashboard.md).

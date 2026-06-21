@@ -1,5 +1,5 @@
 ---
-title: "Automatic Player Update"
+title: 'Automatic Player Update'
 slug: automatic-player-update
 publish: false
 date: 2025-05-03
@@ -9,14 +9,13 @@ categories:
   - start
 ---
 
-Automatic Player update
-=======================
+# Automatic Player update
 
-Updating is essential for continued access to OnSign TV's new features as they come out.
+Updating is essential for continued access to Digisigns's new features as they come out.
 
-You’ve already learned from a previous tutorial [how to remotely update your Player software](/player-update/remote-player-update). If you have many Players, don’t bother updating them one by one each time. Instead set your Player to update automatically.
+You’ve already learned from a previous tutorial [how to remotely update your Player software](04_remote-player-update.md). If you have many Players, don’t bother updating them one by one each time. Instead set your Player to update automatically.
 
-1. In your OnSign TV [account](https://app.onsign.tv/content/), click on your username at the bottom-left. Select “Settings” from the drop-down menu.
+1. In your Digisigns [account](https://app.onsign.tv/content/), click on your username at the bottom-left. Select “Settings” from the drop-down menu.
 2. Click on “Default Player Settings” on the sidebar menu.
 3. Check “Automatically apply available app updates”. By enabling this option, your Player will check for updates every time the device starts up.
 
@@ -30,8 +29,8 @@ You’ve already learned from a previous tutorial [how to remotely update your P
 
 **Android devices**
 
-The above described procedure for automatic update apply only to Android devices with installed systems module (SPM) or rooted devices. If you downloaded an OnSign TV software from the Google Play Store, do the following:
+The above described procedure for automatic update apply only to Android devices with installed systems module (SPM) or rooted devices. If you downloaded an Digisigns software from the Google Play Store, do the following:
 
 1. Access the Google Play Store on your device.
-2. Search for the OnSign TV  Player App.
+2. Search for the Digisigns  Player App.
 3. On the top-right corner, click on the three dot icon and check “Auto-update”.

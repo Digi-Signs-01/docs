@@ -1,5 +1,5 @@
 ---
-title: "Adding Files Media And Apps To A Playlist"
+title: 'Adding Files Media And Apps To A Playlist'
 slug: adding-files-media-and-apps-to-a-playlist
 publish: false
 date: 2025-05-03
@@ -9,8 +9,7 @@ categories:
   - start
 ---
 
-Adding files, media and Apps to a Playlist
-==========================================
+# Adding files, media and Apps to a Playlist
 
 Pack a bunch of files into a Playlist Loop!
 
@@ -19,14 +18,14 @@ Playlists are a great way for organizing and packaging your content. Once a Play
 ### A Playlist can be built with:
 
 1. Media files or Apps
-2. [Campaigns](/create-your-first-campaign) and [Compositions](/media/using-dynamic-composition)
+2. [Campaigns](../14_create-your-first-campaign/README.md) and [Compositions](../25_media/15_using-dynamic-composition.md)
 3. Other already created Playlists
 
 **Note:** Media files and Apps directly added to your Playlist will always play on full screen.
 
 This is how to organize files in Playlists:
 
-1. In your OnSign TV account, go to the Content page and click on "New".
+1. In your Digisigns account, go to the Content page and click on "New".
 2. Select the option “Playlist”.
 3. Fill out the basic info as needed like Playlist Name, Folder, Category, and Tags. All but the Name are optional.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731620526614/adding-files-to-playlist-new1.jpg)
@@ -40,11 +39,8 @@ This is how to organize files in Playlists:
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731620600243/adding-files-to-playlist-new3.jpg)
 6. Click on "Save" or “Save and Publish”.
 
-OnSign TV Academy - Playlists
------------------------------
+## Digisigns Academy - Playlists
 
-OnSign TV Academy - Create and Manage Playlists
------------------------------------------------
+## Digisigns Academy - Create and Manage Playlists
 
-OnSign TV Academy - New Playlist Layout
----------------------------------------
+## Digisigns Academy - New Playlist Layout

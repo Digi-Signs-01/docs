@@ -12,7 +12,7 @@ categories:
 Using Apps to Display a Data Feed
 =================================
 
-The whole purpose of creating and curating [Data Feeds](/data-feeds/creating-a-new-data-feed) is to take advantage of its flexibility for presenting dynamic content on your signage screens.
+The whole purpose of creating and curating [Data Feeds](02_creating-a-new-data-feed.md) is to take advantage of its flexibility for presenting dynamic content on your signage screens.
 
 Once your Data Feed is set and ready to be used, you can present the data on any Data Feed enabled App or on a Composition.
 

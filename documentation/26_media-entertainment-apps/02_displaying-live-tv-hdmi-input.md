@@ -14,13 +14,13 @@ Displaying live TV (HDMI Input)
 
 Now you can connect any video source to your Player when using a Player which supports HDMI input!
 
-**This feature requires** [**Compatible hardware**](/media-entertainment-apps/live-tv-compatible-hardware-hdmi-input)**!**
+**This feature requires** [**Compatible hardware**](05_live-tv-compatible-hardware-hdmi-input.md)**!**
 
 The HDMI Input App is a simple, yet powerful feature allowing you to present in full screen or in a specific screen region any video source such as a live TV receiver, cable box, security camera, DVD, video games, and more!
 
 Follow these steps to learn how to configure your HDMI Input App:
 
-1. In your App library ([Creating an App](/apps/creating-an-app)), type in "HDMI" or select the “Other” category and choose "HDMI Input".  
+1. In your App library ([Creating an App](../04_apps/02_creating-an-app.md)), type in "HDMI" or select the “Other” category and choose "HDMI Input".  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731658642351/hdmi-input-how-to-display-live-tv_1.png)
 2. Name the app and select the correct HDMI input in case your hardware device has more than one.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731658655197/hdmi-input-how-to-display-live-tv_2.png)

@@ -1,5 +1,5 @@
 ---
-title: "Playback Restriction By Tags"
+title: 'Playback Restriction By Tags'
 slug: playback-restriction-by-tags
 publish: false
 date: 2025-05-03
@@ -9,10 +9,9 @@ categories:
   - start
 ---
 
-Playback restriction by Tags
-============================
+# Playback restriction by Tags
 
-If you keep the (good habit) of [tagging Players](/create-your-first-campaign/organizing-campaigns-with-tags), you can benefit from it during Content publishing. You can prevent Content from being played on tagged Players, or only publish to them.
+If you keep the (good habit) of [tagging Players](../14_create-your-first-campaign/08_organizing-campaigns-with-tags.md), you can benefit from it during Content publishing. You can prevent Content from being played on tagged Players, or only publish to them.
 
 For instance, let’s say you are a digital signage provider and distribute advertisements within your network, which include different restaurant chains. It certainly would be a problem if you published a restaurant or fast food chain advertisement to the wrong establishment.
 
@@ -47,5 +46,4 @@ One thing to keep in mind: Even though a Player which does not fall into the fil
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731689854052/playback-restriction-by-tags-3.jpg)
 
-OnSign TV Academy - Content Publishing and Playback Rules
----------------------------------------------------------
+## Digisigns Academy - Content Publishing and Playback Rules

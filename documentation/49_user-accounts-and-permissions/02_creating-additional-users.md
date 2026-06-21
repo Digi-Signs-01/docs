@@ -1,5 +1,5 @@
 ---
-title: "Creating Additional Users"
+title: 'Creating Additional Users'
 slug: creating-additional-users
 publish: false
 date: 2025-05-03
@@ -9,12 +9,11 @@ categories:
   - start
 ---
 
-Creating additional users
-=========================
+# Creating additional users
 
-You can create additional user accounts for other users to help you manage your digital signage operation on OnSign TV. Create as many user accounts as you want:
+You can create additional user accounts for other users to help you manage your digital signage operation on Digisigns. Create as many user accounts as you want:
 
-1. Click on your username in the bottom-left of your OnSign TV account and then select “Settings” from the drop-down menu.  
+1. Click on your username in the bottom-left of your Digisigns account and then select “Settings” from the drop-down menu.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731675416103/creating-additional-users-1.jpg)
 2. Select “Users” from the bottom of the sidebar menu.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731675429241/creating-additional-users-2.jpg)
@@ -36,15 +35,14 @@ In the past, it was only possible to have one organization owner account, and th
 
 **Restricted User**
 
-This user can only view what you allow. If you want them to edit existing content, read the [How-to-set-permissions](/user-accounts-and-permissions/setting-permissions-to-users) tutorial.
+This user can only view what you allow. If you want them to edit existing content, read the [How-to-set-permissions](07_setting-permissions-to-users.md) tutorial.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731675561257/create-additional-user-accounts_6.png)
 
 5. Click “Save”.
 
-6. The account has been successfully created. Send the initial password to access OnSign TV to the person you created the account for. It can be changed after they log into their OnSign TV user account.
+6. The account has been successfully created. Send the initial password to access Digisigns to the person you created the account for. It can be changed after they log into their Digisigns user account.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731675579471/create-additional-user-accounts_7.png)
 
-OnSign TV Academy - Users and Users Groups
-------------------------------------------
+## Digisigns Academy - Users and Users Groups

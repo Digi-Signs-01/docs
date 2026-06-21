@@ -57,7 +57,7 @@ Create detailed playback schedules or play audio content based on Player Tags.
 
 ### 2) Set playback
 
-Now, it’s time to publish. Again, as with every other content, you can publish the separate Audio Playlist on the Primary or [Fallback Loop](/basics-publishing/fallback-loop) of the Audio Content Loop. The other publishing options are to schedule for a specific time, to get triggered by GPS location, or to get triggered on-demand.
+Now, it’s time to publish. Again, as with every other content, you can publish the separate Audio Playlist on the Primary or [Fallback Loop](../09_basics-publishing/04_fallback-loop.md) of the Audio Content Loop. The other publishing options are to schedule for a specific time, to get triggered by GPS location, or to get triggered on-demand.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731596387005/how-to-use-the-audio-feature_6.png)
 
@@ -81,7 +81,7 @@ Audio content has two types of volumes, the content volume itself and the volume
 
 You can lower the volume of other media when this audio plays, for example during an announcement. After the announcement stops, the other media will revert to the original volume.
 
-This technique is called [Audio Ducking](/audio-content/using-audio-ducking) and shown in detail in a dedicated tutorial.
+This technique is called [Audio Ducking](02_using-audio-ducking.md) and shown in detail in a dedicated tutorial.
 
 ### 5) Audio Apps
 
@@ -90,7 +90,7 @@ At present, two audio-centric Apps are at your disposal:
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731596517650/how-to-use-the-audio-feature_10.png)
 
 * The Streaming Audio Link App functions like our other Link Apps by inserting a URL.
-* The Audio Announcement app is a TextToSpeech App that allows you to create simple text content which is spoken as audio on the Player in a variety of voices and languages. Check out the [Audio Announcement app tutorial](/audio-content/using-audio-announcement-app) for details.
+* The Audio Announcement app is a TextToSpeech App that allows you to create simple text content which is spoken as audio on the Player in a variety of voices and languages. Check out the [Audio Announcement app tutorial](01_using-audio-announcement-app.md) for details.
 
 Check out how to set up the Audio Loop in action
 ------------------------------------------------

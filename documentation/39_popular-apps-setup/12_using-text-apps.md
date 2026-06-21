@@ -1,5 +1,5 @@
 ---
-title: "Using Text Apps"
+title: 'Using Text Apps'
 slug: using-text-apps
 publish: false
 date: 2025-05-03
@@ -9,10 +9,9 @@ categories:
   - start
 ---
 
-Using Text Apps
-===============
+# Using Text Apps
 
-In the OnSign TV App Library ([Creating an App](/apps/creating-an-app)), you will find the category "Text and Scrollers". These are ideal for displaying short messages which need to be updated quickly. Check out the available Apps below:
+In the Digisigns App Library ([Creating an App](../04_apps/02_creating-an-app.md)), you will find the category "Text and Scrollers". These are ideal for displaying short messages which need to be updated quickly. Check out the available Apps below:
 
 Rich Text Widget
 
@@ -26,8 +25,7 @@ This App resizes automatically to fit any screen area. Just remember checking th
 
 Always preview the App and test how it looks published on a device before launching it to your entire network.
 
-Vertical Text Ticker, Text Ticker and Text Scroller
----------------------------------------------------
+## Vertical Text Ticker, Text Ticker and Text Scroller
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731650901057/text-apps.jpg)
 
@@ -41,23 +39,20 @@ Keep the size of your screen in mind when writing your text. The longer the sent
 
 **Note:** Capslock is the only text format available for the Vertical Text Ticker.
 
-Message App
------------
+## Message App
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731650966643/text-apps2.jpg)
 
-The Message App takes input from a [Data Feed](/data-feeds). If your Data Feed is an external source, you can change the message without even needing to access your OnSign TV account.
+The Message App takes input from a [Data Feed](../16_data-feeds/README.md). If your Data Feed is an external source, you can change the message without even needing to access your Digisigns account.
 
 The Message App is color coded by degree of importance. Assign up to 3 different accent colors for the message. The labels can be edited to your needs. By default the labels and colors are important with a red color, warning with a yellow color, and attention with a blue color.
 
-QR Code
--------
+## QR Code
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731651000556/text-apps3.jpg)
 
-Invite your audience to discover more information on their mobile, right from your screen! QR codes make calls-to-action much more effective by redirecting users straight to a website URL. You just need to paste the URL or message you want to display into the App settings. For [more on the QR Code App read here](/popular-apps-setup/using-qr-codes).
+Invite your audience to discover more information on their mobile, right from your screen! QR codes make calls-to-action much more effective by redirecting users straight to a website URL. You just need to paste the URL or message you want to display into the App settings. For [more on the QR Code App read here](09_using-qr-codes.md).
 
-Besides text Apps which are covered in this section, the OnSign TV platform has plenty more text-centric Apps to offer in the Menu Boards & [Tables category](/data-feeds/using-the-menu-board-casual), e.g. for tables or directories.
+Besides text Apps which are covered in this section, the Digisigns platform has plenty more text-centric Apps to offer in the Menu Boards & [Tables category](../16_data-feeds/10_using-the-menu-board-casual.md), e.g. for tables or directories.
 
-OnSign TV Academy - Apps
-------------------------
+## Digisigns Academy - Apps

@@ -14,7 +14,7 @@ How to remove accounts
 
 When there is an ongoing conflict, non-payment from a client, or a subscription cancellation, you need to delete users from your account list.
 
-In the event, you only temporarily want to prevent the user from accessing their account in expectation of a resolution, try merely [blocking the account](/white-label/how-to-block-accounts) instead.
+In the event, you only temporarily want to prevent the user from accessing their account in expectation of a resolution, try merely [blocking the account](01_how-to-block-accounts.md) instead.
 
 1. In your branded digital signage account, click on the “Orgs” tab on your page menu on the left.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731668006902/how-to-remove-accounts_1.png)

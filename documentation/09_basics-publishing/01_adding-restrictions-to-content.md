@@ -14,9 +14,9 @@ Adding restrictions to Content
 
 Use this feature to add a restriction to Content which should apply to **all Players**. You can make this setting apply to certain times, certain dates, certain Player tags, or Player locations.
 
-For instance, if you have a Christmas or seasonal message. Maybe you want a Content to play from Monday to Friday, but never on weekends. You can also manage Content by tags or geolocations of the Players, for example [set GeoRegions](/triggered-playback/setting-georegions) where your Content only plays in specific geographic locations.
+For instance, if you have a Christmas or seasonal message. Maybe you want a Content to play from Monday to Friday, but never on weekends. You can also manage Content by tags or geolocations of the Players, for example [set GeoRegions](../48_triggered-playback/05_setting-georegions.md) where your Content only plays in specific geographic locations.
 
-If you wish to apply a restriction to a Content in a single or several Players (but not all of them), check the [basic Content publishing tutorial](/basics-publishing/basic-content-publishing).
+If you wish to apply a restriction to a Content in a single or several Players (but not all of them), check the [basic Content publishing tutorial](02_basic-content-publishing.md).
 
 There are several ways to set the restriction. For all Content types, you can set the restriction from the Content page. In the case of a Campaign or Playlist, you can also do it from the Publish page in the Campaign or Playlist.
 

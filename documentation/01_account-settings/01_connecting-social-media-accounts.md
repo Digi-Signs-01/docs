@@ -1,5 +1,5 @@
 ---
-title: "Connecting Social Media Accounts"
+title: 'Connecting Social Media Accounts'
 slug: connecting-social-media-accounts
 publish: false
 date: 2025-05-03
@@ -9,12 +9,11 @@ categories:
   - start
 ---
 
-Connecting social media accounts
-================================
+# Connecting social media accounts
 
-In order get Content from your Social and other external accounts in your OnSign TV Player Softwares, you first need to authorize your OnSign TV account to access those accounts. This applies to Facebook, Instagram, Microsoft, and other expanding options available at the Integration Accounts menu.
+In order get Content from your Social and other external accounts in your Digisigns Player Softwares, you first need to authorize your Digisigns account to access those accounts. This applies to Facebook, Instagram, Microsoft, and other expanding options available at the Integration Accounts menu.
 
-In the past, there was a Facebook integration, but the integration method with Facebook changed. Therefore, a Facebook integration is no longer an option. You can still show public Facebook pages with the [Facebook App](/media-entertainment-apps/using-social-network-apps) without using our Integration Accounts.
+In the past, there was a Facebook integration, but the integration method with Facebook changed. Therefore, a Facebook integration is no longer an option. You can still show public Facebook pages with the [Facebook App](../26_media-entertainment-apps/07_using-social-network-apps.md) without using our Integration Accounts.
 
 Follow these steps to connect your social media account:
 

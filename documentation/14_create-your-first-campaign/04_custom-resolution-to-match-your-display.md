@@ -1,5 +1,5 @@
 ---
-title: "Custom Resolution To Match Your Display"
+title: 'Custom Resolution To Match Your Display'
 slug: custom-resolution-to-match-your-display
 publish: false
 date: 2025-05-03
@@ -9,16 +9,15 @@ categories:
   - start
 ---
 
-Custom resolution to match your display
-=======================================
+# Custom resolution to match your display
 
 Are you displaying digital signage on an UltraWide monitor, Video Wall, or any other non-standard proportion device? Then, custom resolution is what you need.
 
-This option is part of the custom layout settings in your **Campaign Editor**. If you don’t know yet how to create different screen layouts, adding screen divisions, and changing from landscape to portrait mode, [check out this tutorial](/create-your-first-campaign/how-to-create-custom-screen-layouts).
+This option is part of the custom layout settings in your **Campaign Editor**. If you don’t know yet how to create different screen layouts, adding screen divisions, and changing from landscape to portrait mode, [check out this tutorial](06_how-to-create-custom-screen-layouts.md).
 
 In this tutorial we are going to learn how to set a custom resolution:
 
-1. In your OnSign TV [account](https://app.onsign.tv/content/), edit an existing Campaign or create a new one. Click on “Add Custom Layout” in the header of the Screen Layout section.  
+1. In your Digisigns [account](https://app.onsign.tv/content/), edit an existing Campaign or create a new one. Click on “Add Custom Layout” in the header of the Screen Layout section.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731615550844/setting-custom-resolution-to-match-your-display-or-video-wall_1.png)
 2. Define the Device Orientation and then click on “Device Resolution”. Select “Custom”, the last item from the list.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731615566125/setting-custom-resolution-to-match-your-display-or-video-wall_2.png)
@@ -31,5 +30,4 @@ TIP: Keep in mind that depending on your Video Wall configuration, the image mig
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731615596919/setting-custom-resolution-to-match-your-display-or-video-wall_4.png)
 
-Expert Tips - Custom Resolution for Video Wall
-----------------------------------------------
+## Expert Tips - Custom Resolution for Video Wall

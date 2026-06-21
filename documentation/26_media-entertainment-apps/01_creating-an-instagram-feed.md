@@ -1,5 +1,5 @@
 ---
-title: "Creating An Instagram Feed"
+title: 'Creating An Instagram Feed'
 slug: creating-an-instagram-feed
 publish: false
 date: 2025-05-03
@@ -9,31 +9,29 @@ categories:
   - start
 ---
 
-Creating an Instagram feed
-==========================
+# Creating an Instagram feed
 
-OnSign TV has several Apps to display Instagram content to choose from. Let's take the most simplest App called "Instagram". In this tutorial, we show you how to set it up.
+Digisigns has several Apps to display Instagram content to choose from. Let's take the most simplest App called "Instagram". In this tutorial, we show you how to set it up.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731657298524/create-instagram-feed_11.png)
 
-1. First, you need to [integrate your Instagram account](/account-settings/connecting-social-media-accounts) with your OnSign TV account. Go to your account settings and look for the Integration Accounts on the menu. Click on "+ Add Account" and choose "Add Instagram Account".  
+1. First, you need to [integrate your Instagram account](../01_account-settings/01_connecting-social-media-accounts.md) with your Digisigns account. Go to your account settings and look for the Integration Accounts on the menu. Click on "+ Add Account" and choose "Add Instagram Account".  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731657377487/create-instagram-feed_12.png)
-2. You will be send over to Instagram to grant OnSign TV access to your Instagram account. Click on the blue button to "Allow" it.  
+2. You will be send over to Instagram to grant Digisigns access to your Instagram account. Click on the blue button to "Allow" it.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731657391136/create-instagram-feed_13.png)
-3. You will be sent back to OnSign TV telling you that your Instagram account was successfully added.  
+3. You will be sent back to Digisigns telling you that your Instagram account was successfully added.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731657403747/create-instagram-feed_14.png)
-4. Now, you can create an App which allows you to show your Instagram content on your OnSign TV Players. As with every App, start by [creating a new App](/apps/creating-an-app) from your Content page. Click on the "New" button and select "App". In the App library look for the Instagram App.
-5. Give the App a name. In the Instagram Account field you will see the name of your Instagram account. You can of course have several Instagram Accounts connected with your OnSign TV platform. In this case, select the applicable Instagram Account from the drop-down menu.  
+4. Now, you can create an App which allows you to show your Instagram content on your Digisigns Players. As with every App, start by [creating a new App](../04_apps/02_creating-an-app.md) from your Content page. Click on the "New" button and select "App". In the App library look for the Instagram App.
+5. Give the App a name. In the Instagram Account field you will see the name of your Instagram account. You can of course have several Instagram Accounts connected with your Digisigns platform. In this case, select the applicable Instagram Account from the drop-down menu.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731657442335/create-instagram-feed_15.png)
 6. Configure the Instagram App further by selecting how many posts will be shown, if there is a transition between posts, the amount of time each post is shown on screen, as well as font, colors, backgrounds, and the language of labels.
 7. Your Instagram feed is ready to be used.
 
-Via Zapier (Deprecated)
------------------------
+## Via Zapier (Deprecated)
 
 In the way back past, Instagram had to be integrated via Zapier. For completeness, we leave this tutorial here, but it is no longer necessary to do it this way.
 
-You need first to allow Zapier to access your Instagram account. If you don't have a Zapier account yet, [check out this tutorial and learn how to create it](/popular-apps-setup/creating-a-zapier-account). This will take less than two minutes by following these steps:
+You need first to allow Zapier to access your Instagram account. If you don't have a Zapier account yet, [check out this tutorial and learn how to create it](../39_popular-apps-setup/02_creating-a-zapier-account.md). This will take less than two minutes by following these steps:
 
 ### Integrate accounts
 
@@ -45,9 +43,9 @@ You need first to allow Zapier to access your Instagram account. If you don't ha
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731657556756/create-instagram-feed-for-onsign-tv_3.jpg)
 
-### Create Instagram feed for OnSign TV
+### Create Instagram feed for Digisigns
 
-On Zapier, they call any computer automation a “zap”. So you can display your Instagram photos on OnSign TV, we are going to create a RSS feed which will collect all Instagram data. Check step by step below:
+On Zapier, they call any computer automation a “zap”. So you can display your Instagram photos on Digisigns, we are going to create a RSS feed which will collect all Instagram data. Check step by step below:
 
 1. Click on “MAKE A ZAP!” at the top of the page.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731657597150/create-instagram-feed-for-onsign-tv_4.jpg)
@@ -70,7 +68,7 @@ Zapier requires at least one posted picture to be able to continue.
 
 8. The new page will display an form. Fill the fields as described below, then hit "Continue":
 
-**URL:** Write “instagram-” and complement with whatever you want. Click on the button "Copy to clipboard" on the right. **Paste the URL somewhere because you will need it to** [**add the App on OnSign TV**](https://docs.onsign.tv/articles/docs/configure-zapier-instagram-rss-on-an-app).
+**URL:** Write “instagram-” and complement with whatever you want. Click on the button "Copy to clipboard" on the right. **Paste the URL somewhere because you will need it to** [**add the App on Digisigns**](https://docs.onsign.tv/articles/docs/configure-zapier-instagram-rss-on-an-app).
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731657726872/create-instagram-feed-for-onsign-tv_7.png)
 
@@ -96,8 +94,8 @@ As you paste the text above, you shoud see the following:
 
 Zapier will display the feed URL. It will vary depending on your account and content. Just click on "Create & Continue".
 
-10) Your zap will be tested. If it is successful, click on "Finish".
+10. Your zap will be tested. If it is successful, click on "Finish".
 
-11) Last, but not least: don’t forget to turn your zap on! Also name it to find it on Zapier website easily.
+11. Last, but not least: don’t forget to turn your zap on! Also name it to find it on Zapier website easily.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731657814158/create-instagram-feed-for-onsign-tv_10.jpg)

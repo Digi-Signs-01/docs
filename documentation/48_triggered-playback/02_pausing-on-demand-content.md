@@ -12,11 +12,11 @@ categories:
 Pausing on-demand Content
 =========================
 
-In this tutorial, you learn two methods to pause [on-demand Content](/triggered-playback/playing-on-demand-content). This is especially useful with indefinite on-demand Content where the Content was set to repeat indefinitely in an infinite loop.
+In this tutorial, you learn two methods to pause [on-demand Content](04_playing-on-demand-content.md). This is especially useful with indefinite on-demand Content where the Content was set to repeat indefinitely in an infinite loop.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731692885933/how-to-pause-on-demand-content_1.png)
 
-For this tutorial, we assume you have already triggered the on-demand Content. If you don't know how to do this yet, check out the tutorial [Playing on-demand Content](/triggered-playback/playing-on-demand-content).
+For this tutorial, we assume you have already triggered the on-demand Content. If you don't know how to do this yet, check out the tutorial [Playing on-demand Content](04_playing-on-demand-content.md).
 
 1. Select the Player where you have triggered the on-demand Content and go to the "Content in Player" menu.
 2. Scroll down to the "Triggered Content" header.

@@ -1,5 +1,5 @@
 ---
-title: "Setting Up Default Content"
+title: 'Setting Up Default Content'
 slug: setting-up-default-content
 publish: false
 date: 2025-05-03
@@ -9,10 +9,9 @@ categories:
   - start
 ---
 
-Setting up Default Content
-==========================
+# Setting up Default Content
 
-When [connecting a new device](/basic-player-operations/connecting-a-player) to your account, it will be empty at first. You need to [publish your first Content](/basics-publishing/basic-content-publishing) to show relevant Content on your screen.
+When [connecting a new device](/basic-player-operations/connecting-a-player) to your account, it will be empty at first. You need to [publish your first Content](../09_basics-publishing/02_basic-content-publishing.md) to show relevant Content on your screen.
 
 You may have Content which is common for all of your devices, like a default company video. You can have it immediately shown on your screen when just setting up the screen for the first time. Of course, you can also set this basic Content up after you have already connected devices to the platform by editing the Player settings.
 
@@ -20,8 +19,8 @@ You may have Content which is common for all of your devices, like a default com
 
 In order for this Default Content to be shown on your new screen, you must:
 
-* [Create a Player Group](/player-groups/how-to-create-player-groups)
-* Publish this basic Content to the Player Group.
+- [Create a Player Group](../32_player-groups/01_how-to-create-player-groups.md)
+- Publish this basic Content to the Player Group.
 
 Setting up Player Groups is a way of grouping screens which will receive the same media, thus simplifying Content publishing. All Players which belong to a Player Group will download the Content which is published to it.
 
@@ -31,15 +30,14 @@ For instance, in this tutorial we will set up the Content which should be featur
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1741710321309/image.png)
 
-How to set up Default Content on a new Player
----------------------------------------------
+## How to set up Default Content on a new Player
 
 1. Go to the Players tab.
 2. Click on "Setup Player" in the top-left corner.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1741710387892/image.png)
 
-3. Insert the code which is displayed on your Player's screen with the OnSign TV  Player App installed.
+3. Insert the code which is displayed on your Player's screen with the Digisigns  Player App installed.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1741710472417/image.png)
 
@@ -52,8 +50,7 @@ How to set up Default Content on a new Player
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1741710945952/image.png)
 
-How to set up Default Content on an existing Player
----------------------------------------------------
+## How to set up Default Content on an existing Player
 
 1. Go to the Players tab.
 2. Select the device to which you want to add the basic Content.

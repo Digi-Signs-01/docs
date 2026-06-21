@@ -1,5 +1,5 @@
 ---
-title: "Using Composition"
+title: 'Using Composition'
 slug: using-composition
 publish: false
 date: 2025-05-03
@@ -9,18 +9,17 @@ categories:
   - start
 ---
 
-Using Composition
-=================
+# Using Composition
 
-Design canvas with images, text, and shapes directly in OnSign TV.
+Design canvas with images, text, and shapes directly in Digisigns.
 
-Using "Compositions" you can create panels such as ads and menu boards, directly in your OnSign TV platform. Mix several elements to bring out beautiful designs and make your content stand out even more.
+Using "Compositions" you can create panels such as ads and menu boards, directly in your Digisigns platform. Mix several elements to bring out beautiful designs and make your content stand out even more.
 
 1. Click on the New button on your Content page and select Composition.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731591468365/how-to-create-content-with-image-composition_1.png)
-2. Select the image orientation and resolution. You can also set up a custom one. Alternatively, you can select one of many OnSign TV templates and edit these to your needs.  
+2. Select the image orientation and resolution. You can also set up a custom one. Alternatively, you can select one of many Digisigns templates and edit these to your needs.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731591483766/how-to-create-content-with-image-composition_2.png)
-3. Now, you can unleash your creativity using the tools on the left side. They include text, shapes, stickers, media from your OnSign TV files, and more. Change each element's properties, such as opacity and size, and play with layers.  
+3. Now, you can unleash your creativity using the tools on the left side. They include text, shapes, stickers, media from your Digisigns files, and more. Change each element's properties, such as opacity and size, and play with layers.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731591501186/how-to-create-content-with-image-composition_3.png)
 4. Once you are done, confirm with “Save As”, type a name, and "Save".  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731591520930/how-to-create-content-with-image-composition_4.png)
@@ -29,10 +28,8 @@ The new Composition will be placed together with your other media files on the "
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1741719842542/image.png)
 
-We have upgraded the Composition feature to include more Content options and make it dynamic. Check out the additional possibilities of [Dynamic Compositions](/media/using-dynamic-composition).
+We have upgraded the Composition feature to include more Content options and make it dynamic. Check out the additional possibilities of [Dynamic Compositions](15_using-dynamic-composition.md).
 
-OnSign TV Academy - Compositions
---------------------------------
+## Digisigns Academy - Compositions
 
-Expert Tips - Composition
--------------------------
+## Expert Tips - Composition

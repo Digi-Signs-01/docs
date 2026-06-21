@@ -16,7 +16,7 @@ The info below was copied from the [BrightSign webpage](https://docs.brightsign.
 
 In the following we describe the requirements for video to play successfully on **BrightSign Players**. Bitrate information for older Players is available on [this page](https://brightsign.atlassian.net/wiki/spaces/DOC/pages/370673630/Optimizing+Video+Quality#Bitrates).
 
-For format and encoding modification we recommend to take a look in [this tutorial](/media/optimizing-videos-with-handbrake).
+For format and encoding modification we recommend to take a look in [this tutorial](08_optimizing-videos-with-handbrake.md).
 
 XD5, HD5, LS5
 -------------

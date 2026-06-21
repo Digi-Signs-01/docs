@@ -1,5 +1,5 @@
 ---
-title: "Rotating The Screen Portrait Mode"
+title: 'Rotating The Screen Portrait Mode'
 slug: rotating-the-screen-portrait-mode
 publish: false
 date: 2025-05-03
@@ -9,19 +9,17 @@ categories:
   - start
 ---
 
-Rotating the screen (portrait mode)
-===================================
+# Rotating the screen (portrait mode)
 
 Adjust your screen to display portrait-oriented content properly!
 
-OnSign TV offers portrait layouts and you can also [draw your own Custom Screen Layout](/create-your-first-campaign/how-to-create-custom-screen-layouts) when creating a Campaign. However, if you don't adjust the display settings on your device to Portrait Mode, your Content will remain in landscape orientation. The result is disastrous:
+Digisigns offers portrait layouts and you can also [draw your own Custom Screen Layout](../../14_create-your-first-campaign/06_how-to-create-custom-screen-layouts.md) when creating a Campaign. However, if you don't adjust the display settings on your device to Portrait Mode, your Content will remain in landscape orientation. The result is disastrous:
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731419034014/how-to-set-windows-to-portrait-mode_1.jpg)
 
 Adjusting your display is anything but complicated! Configure your screen in less than a minute. Actually, you just need to press a few keys:
 
-Method 1: Using commands
-------------------------
+## Method 1: Using commands
 
 Note that this tutorial applies to [Windows systems](/windows/installing-windows-player-software) only.
 
@@ -41,8 +39,7 @@ If you want to turn the screen orientation back to normal, press these commands:
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731419184210/how-to-set-windows-to-portrait-mode_5.png)
 
-Method 2: Display settings
---------------------------
+## Method 2: Display settings
 
 1. Alternatively, you can right-click on the desktop and select “Display settings”.
 

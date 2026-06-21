@@ -12,7 +12,7 @@ categories:
 How to edit accounts
 ====================
 
-Even after [having created your client’s account](/white-label/how-to-create-accounts), you can still change their account information anytime.
+Even after [having created your client’s account](02_how-to-create-accounts.md), you can still change their account information anytime.
 
 1. In your branded digital signage account, click on the “Orgs” tab on your page menu on the left.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731667467494/how-to-edit-accounts_1.png)

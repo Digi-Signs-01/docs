@@ -14,7 +14,7 @@ Using Audio Ducking
 
 The Audio Loop requires Player version 10 or above.
 
-This tutorial discusses the lowering of volume when a new, more important audio is temporarily introduced while another is still playing. To learn how to use audio files, please visit the [using audio files tutorial](/audio-content/using-audio-files).
+This tutorial discusses the lowering of volume when a new, more important audio is temporarily introduced while another is still playing. To learn how to use audio files, please visit the [using audio files tutorial](03_using-audio-files.md).
 
 Audio Ducking is a well-known feature to audio editors. Audio Ducking will lower, or “duck”, the volume of the media which are being played, allowing a new audio message to be heard. Once the message is finished, the volume of the previous audio is automatically resumed.
 
