@@ -42,10 +42,10 @@ installed on regular Samsung Smart TVs**.
 3. **Firewall:** make sure your network complies with our
    [firewall requirements](/27_network-settings/01_firewall-settings).
 
-!!! info "Application hosting URL"
-    Type this URL exactly, including `https://`:
-
-    **https://digisigns.in/s**
+> [!info] Application hosting URL
+> Type this URL exactly, including `https://`:
+>
+> **https://digisigns.in/s**
 
 ## Prepare your Samsung display
 
@@ -59,10 +59,10 @@ steps is the most common cause of a failed install.
 
 ![Samsung first-time setup — language selection](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/samsung-tizen/samsung-01-language.jpg)
 
-!!! note
-    If the display was previously configured for another CMS,
-    [reset it](/02_player-installation/43_samsung-sssp-and-tizen/01_how-to-reset-sssp)
-    before continuing so no residual configuration interferes.
+> [!note]
+> If the display was previously configured for another CMS,
+> [reset it](/02_player-installation/43_samsung-sssp-and-tizen/01_how-to-reset-sssp)
+> before continuing so no residual configuration interferes.
 
 ## Install via URL Launcher
 
@@ -99,17 +99,17 @@ The exact menu wording depends on your platform version.
 
 4. When installation completes, launch the new app from the Home menu to start the player.
 
-!!! tip "Portrait displays"
-    Use the same URL — `https://digisigns.in/s` — for both orientations; there is no
-    separate portrait build. For a portrait installation, rotate the panel in the
-    display's settings — see
-    [Rotating the screen](/02_player-installation/43_samsung-sssp-and-tizen/04_rotating-the-screen-portrait).
+> [!tip] Portrait displays
+> Use the same URL — `https://digisigns.in/s` — for both orientations; there is no
+> separate portrait build. For a portrait installation, rotate the panel in the
+> display's settings — see
+> [Rotating the screen](/02_player-installation/43_samsung-sssp-and-tizen/04_rotating-the-screen-portrait).
 
-!!! note "Don't see URL Launcher?"
-    If pressing **Home** loads **MagicINFO** instead of the URL Launcher / Custom App
-    option, the panel is set to boot MagicINFO. See
-    [Switch to Digisigns from Samsung MagicINFO](/02_player-installation/43_samsung-sssp-and-tizen/05_switch-to-digisigns-from-samsung-magic-info)
-    to change Play Via, then return here.
+> [!note] Don't see URL Launcher?
+> If pressing **Home** loads **MagicINFO** instead of the URL Launcher / Custom App
+> option, the panel is set to boot MagicINFO. See
+> [Switch to Digisigns from Samsung MagicINFO](/02_player-installation/43_samsung-sssp-and-tizen/05_switch-to-digisigns-from-samsung-magic-info)
+> to change Play Via, then return here.
 
 ![Play Via — switch from MagicINFO](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/samsung-tizen/samsung-08-play-via.jpg)
 
