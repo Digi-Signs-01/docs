@@ -76,8 +76,8 @@ theme:
     - navigation.footer  # Prev/Next page
     - navigation.tracking  # Anchor tracking
     - navigation.top  # Back to top
-    - navigation.sections  # Useful for an overview
-    - navigation.indexes  # Needed for an overview
+    - navigation.indexes  # Section landing pages
+    # navigation.sections intentionally OFF -> collapsible sidebar groups
     - navigation.instant
     - navigation.instant.progress
     - search.suggest
