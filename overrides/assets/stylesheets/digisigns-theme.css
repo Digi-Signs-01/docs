@@ -64,6 +64,12 @@
   font-weight: 600;
 }
 
+/* Sidebar section headers: use the strong text colour (like the active section)
+   instead of the muted grey, so every section header reads clearly. */
+.md-sidebar--primary .md-nav__item--section > .md-nav__link {
+  color: var(--md-default-fg-color);
+}
+
 /* =============================================================
    Content images (screenshots get a soft frame)
    ============================================================= */
