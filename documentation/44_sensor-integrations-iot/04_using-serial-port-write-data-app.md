@@ -1,5 +1,5 @@
 ---
-title: "Using Serial Port Write Data App"
+title: 'Using Serial Port Write Data App'
 slug: using-serial-port-write-data-app
 publish: false
 date: 2025-05-03
@@ -9,8 +9,7 @@ categories:
   - start
 ---
 
-Using Serial Port Write Data App
-================================
+# Using Serial Port Write Data App
 
 The newly launched Serial Port Write Data App connects your sensor controls with your Content.
 
@@ -22,7 +21,7 @@ Before continuing, make sure you have a Player version of 10.1.0 or higher insta
    Scroll down to Serial Port Settings (RS-232) and configure a Type from the dropdown menu and choose the Port address.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731668979039/how-to-use-the-serial-port-write-data-app_1.png)
 2. When the board is plugged in, the apk detects the board address and informs the server. This happens every five minutes. To save you some time, plug the board in and restart the apk to speed up the process.  
-   This configures the board and allows OnSign TV to react to the sensors and send commands to it.
+   This configures the board and allows Digisigns to react to the sensors and send commands to it.
 3. To execute sensor commands like turn on / off LEDs, use the Serial Port Write Data App with your Content.
 4. Go to your Content page and Create a new App.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731668995993/how-to-use-the-serial-port-write-data-app_2.png)

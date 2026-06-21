@@ -1,5 +1,5 @@
 ---
-title: "Quividi Integration"
+title: 'Quividi Integration'
 slug: quividi-integration
 publish: false
 date: 2025-05-03
@@ -9,22 +9,19 @@ categories:
   - start
 ---
 
-Quividi Integration
-===================
+# Quividi Integration
 
-In this tutorial we will demonstrate how to configure the OnSign TV to work with Quividi VidiReports.
+In this tutorial we will demonstrate how to configure the Digisigns to work with Quividi VidiReports.
 
-Requirements for this demonstration
------------------------------------
+## Requirements for this demonstration
 
-* OnSign TV Player version 10.3.x or installed on a media player
-* VidiReports properly configured and running on a Windows PC.
-* The IP address of the VidiReports PC
+- Digisigns Player version 10.3.x or installed on a media player
+- VidiReports properly configured and running on a Windows PC.
+- The IP address of the VidiReports PC
 
-1- Configure Quividi plugin
----------------------------
+## 1- Configure Quividi plugin
 
-In order to obtain audience metrics information from VidiReports and populate APC data, OnSign TV uses a plugin that exchanges information with VidiReports.
+In order to obtain audience metrics information from VidiReports and populate APC data, Digisigns uses a plugin that exchanges information with VidiReports.
 
 In your "Content" page, start by clicking on the "New" button and choosing “Plugin”
 
@@ -40,15 +37,15 @@ In order to configure the plugin you need to set the name of the player attribut
 
 The plugin asks you to connect 6 attributes. You can connect them to an existing attribute or choose to create a new one.
 
-* Total Audience
-* Watching Audience
-* Audience Male Percentage
-* Audience Female Percentage
-* Audience Age 0-19 Percentage
-* Audience Age 20-29 Percentage
-* Audience Age 30-39 Percentage
-* Audience Age 40-49 Percentage
-* Audience Age 50+ Percentage
+- Total Audience
+- Watching Audience
+- Audience Male Percentage
+- Audience Female Percentage
+- Audience Age 0-19 Percentage
+- Audience Age 20-29 Percentage
+- Audience Age 30-39 Percentage
+- Audience Age 40-49 Percentage
+- Audience Age 50+ Percentage
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731670807240/9eedfb60-840c-4a37-8d89-870133d8da35.png)
 
@@ -60,8 +57,7 @@ If you did not change the default ports on the Quividi device, there will be no 
 
 Once the plugin is properly configured, click on the Save button.
 
-2- Install the Quividi plugin on the player
--------------------------------------------
+## 2- Install the Quividi plugin on the player
 
 Once the plugin is created, you need to add it to your player. Please note that this plugin can be added on more than one player. In this case all the players that have this plugin, will try to get audience information from the configured VidiReports device.
 
@@ -73,8 +69,7 @@ Search for the plugin instance in your content area and add it to the player.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731670874092/46316a3c-193d-4274-a318-7c11380cdd95.png)
 
-3- Test the plugin
-------------------
+## 3- Test the plugin
 
 Publish your signage content to the player as usual.
 
@@ -96,8 +91,7 @@ If the plugin is properly configured, it will start retrieving information from 
 
 The plugin will also automatically report content playback information to VidiReports in order to allow APC dashboards.
 
-4- Install the Quividi Audience Overlay App (Optional)
-------------------------------------------------------
+## 4- Install the Quividi Audience Overlay App (Optional)
 
 If you want to display audience information in real time on your media player, you can publish the Quividi Audience App.
 
@@ -121,8 +115,7 @@ Once published it will show audience changes in real time.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731671068343/18ff800e-6244-4d2e-ab35-b4883389ad53.png)
 
-5- Add restrictions based on audience data (Optional)
------------------------------------------------------
+## 5- Add restrictions based on audience data (Optional)
 
 Once the player attributes are being set with real time audience data from the Quividi plugin, you can use it to customize the playback of your content in many different ways.
 

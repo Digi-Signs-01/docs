@@ -1,5 +1,5 @@
 ---
-title: "Content Publishing Moderation"
+title: 'Content Publishing Moderation'
 slug: content-publishing-moderation
 publish: false
 date: 2025-05-03
@@ -9,10 +9,9 @@ categories:
   - start
 ---
 
-Content publishing moderation
-=============================
+# Content publishing moderation
 
-OnSign TV offers an extremely granular user permission system. This way, it is possible to allow only specific users to review and publish Content to Players.
+Digisigns offers an extremely granular user permission system. This way, it is possible to allow only specific users to review and publish Content to Players.
 
 To better illustrate this example, let’s create three roles in the flow:
 
@@ -28,8 +27,7 @@ To support the approval flow, we further recommend creating a folder structure w
 
 **\Editor\Published**
 
-The process at work
--------------------
+## The process at work
 
 1. The Designer uploads assets, creates campaigns and Playlists, and places them all in the **\Design folder**.
 2. Once the Designer's job is finished and publish-ready, the content should be copied to the folder **\Design\Pending review**.

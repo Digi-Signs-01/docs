@@ -1,5 +1,5 @@
 ---
-title: "Set Email Notification For Errors"
+title: 'Set Email Notification For Errors'
 slug: set-email-notification-for-errors
 publish: false
 date: 2025-05-03
@@ -9,14 +9,13 @@ categories:
   - start
 ---
 
-Set email notification for errors
-=================================
+# Set email notification for errors
 
 Nobody can monitor every screen at all times. Therefore, the system monitors them for you. The email notification feature notifies you in case of an error on a Player.
 
 This is how you set up email notifications:
 
-1. Go to your OnSign TV account "Settings" by clicking on your username at the bottom-left and choosing Settings.
+1. Go to your Digisigns account "Settings" by clicking on your username at the bottom-left and choosing Settings.
 2. In the menu, you find the section "Default Player Settings". Click on it.
 3. When you scroll down, you'll reach the "Email Notification Settings" box.
 4. Add the email address you want the notification to be sent to. You may set several emails. Make sure the box "Notify When an Error Happens on This Player" is checked. Then click on the Apply button.  

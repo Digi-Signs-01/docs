@@ -1,12 +1,12 @@
 ---
-title: "Migrating From Bsn To Onsign Tv"
+title: 'Migrating From Bsn To Digisigns'
 slug: migrating-from-bsn-to-onsign-tv
 publish: false
 date: 2025-05-03
 update: 2025-05-03
-description: Migrating From Bsn To Onsign Tv
+description: Migrating From Bsn To Digisigns
 categories:
   - start
 ---
 
-*Content could not be extracted.*
+_Content could not be extracted._

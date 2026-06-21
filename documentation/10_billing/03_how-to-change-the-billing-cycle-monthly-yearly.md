@@ -1,5 +1,5 @@
 ---
-title: "How To Change The Billing Cycle Monthly Yearly"
+title: 'How To Change The Billing Cycle Monthly Yearly'
 slug: how-to-change-the-billing-cycle-monthly-yearly
 publish: false
 date: 2025-05-03
@@ -9,17 +9,17 @@ categories:
   - start
 ---
 
-How to change the billing cycle (monthly / yearly)
-==================================================
+# How to change the billing cycle (monthly / yearly)
 
 When starting your subscription you decided on the billing cycle, whether you want to pay on a monthly basis or only once a year. The annual price saves you 10% compared to the monthly price. Compare prices on our [pricing list](https://onsign.tv/pricing/).
 
 You can change the billing cycle from monthly to yearly or from yearly to monthly also when the subscription has already started. It takes a few steps, so bear with us. The result is seamless.
 
 1. Change the Subscription
---------------------------
 
-1. Click on your username on the bottom-left corner of your OnSign TV account. Then select “Subscription” from the drop-down menu.  
+---
+
+1. Click on your username on the bottom-left corner of your Digisigns account. Then select “Subscription” from the drop-down menu.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731660793552/6d507d8a-e649-40d7-b7d4-ce4c681dfc54.png)
 2. Click the “Change Subscription” button in the top-right corner.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731660808937/542e7eb5-5422-4fbe-b1ab-01b3873ed0b6.png)
@@ -44,8 +44,9 @@ You can change the billing cycle from monthly to yearly or from yearly to monthl
 11. Now, you will only have one subscription. Confirm with the orange button on the lower right bottom "Update Subscription". You will see the financial impact at the bottom. This consists of the full price of the new annual licenses minus the credit you will receive for the remaining now unused days of your monthly licenses.  
     ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731660981140/bbcaa60f-adb0-4368-aa59-e4e8b2623846.png)
 
-2. Assign Licenses to the Players
----------------------------------
+12. Assign Licenses to the Players
+
+---
 
 Last but not least, you need to assign the new licenses to the Players. This step may seem redundant for some, but for users who manage large networks this may matter. They need to be able to distinguish which license is attributed to each player.
 

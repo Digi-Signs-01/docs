@@ -1,5 +1,5 @@
 ---
-title: "Video Capture Device"
+title: 'Video Capture Device'
 slug: video-capture-device
 publish: false
 date: 2025-05-03
@@ -9,17 +9,16 @@ categories:
   - start
 ---
 
-Video Capture Device
-====================
+# Video Capture Device
 
-This tutorial explains how to connect video capture devices to the OnSign TV  Windows  Player.
+This tutorial explains how to connect video capture devices to the Digisigns  Windows  Player.
 
 **Requirements:**
 
-* OnSign TV  Windows  Player version 10 or higher.
-* Using a VLC compatible video device.
-* While installing VLC is not mandatory, it is nice to have for testing the capture device under VLC.
-* Having successfully installed your video device card using the device manufacturer software and drivers.
+- Digisigns  Windows  Player version 10 or higher.
+- Using a VLC compatible video device.
+- While installing VLC is not mandatory, it is nice to have for testing the capture device under VLC.
+- Having successfully installed your video device card using the device manufacturer software and drivers.
 
 VLC is one of the most popular media Players, offering both a graphical interface and a full command line for playback.
 
@@ -29,18 +28,17 @@ Although installing VLC on the Player is not necessary, we recommend it to test 
 
 Any device compatible with VLC 3.0 can be used such as:
 
-* Capture to capture HDMI
-* WebCam or Camera
-* TV Tuner Card
+- Capture to capture HDMI
+- WebCam or Camera
+- TV Tuner Card
 
-Step-by-step configuration:
----------------------------
+## Step-by-step configuration:
 
 1. Ensure that all necessary drivers for your capture card are correctly installed.
 2. To check if the drivers are correct, the capture device must be working correctly when using the software provided by the device manufacturer.
 3. Download and install [VLC](https://www.videolan.org/).
 4. With the capture device installed and connected, open VLC and select:
-   * Media > Open Capture Device
+   - Media > Open Capture Device
 5. As **Capture mode** select "DirectShow" for video capture cards and WebCams; or **TV - Digital** for TV tuner card.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731419757453/windows-video-capture-device_1.jpg)
@@ -53,7 +51,7 @@ Step-by-step configuration:
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731419811163/windows-video-capture-device_3.jpg)
 
-8. Copy the content shown in **MRL** to the **Playback Media Resource Locator** field in the OnSign TV VLC App.
+8. Copy the content shown in **MRL** to the **Playback Media Resource Locator** field in the Digisigns VLC App.
 9. Copy the parameters shown in **Edit Options** to the **Playback Arguments** of the VLC App.
 
 ### IMPORTANT
@@ -68,8 +66,7 @@ Change parameters to dshow-vdev= "HD Webcam C525" live-caching=300
 
 Take a look [here](https://wiki.videolan.org/Documentation:Streaming_HowTo/Command_Line_Examples/) to know more about VLC parameter options.
 
-Other command examples:
------------------------
+## Other command examples:
 
 ### Built-in webcam
 

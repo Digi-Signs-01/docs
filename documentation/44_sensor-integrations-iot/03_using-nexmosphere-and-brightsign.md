@@ -1,5 +1,5 @@
 ---
-title: "Using Nexmosphere And Brightsign"
+title: 'Using Nexmosphere And Brightsign'
 slug: using-nexmosphere-and-brightsign
 publish: false
 date: 2025-05-03
@@ -9,24 +9,22 @@ categories:
   - start
 ---
 
-Using Nexmosphere and BrightSign
-================================
+# Using Nexmosphere and BrightSign
 
 In this tutorial we demonstrate how we can apply interactivity using Nexmosphere devices attached to a BrightSign device.
 
-Watch this [demo video](https://youtube.com/shorts/MLh2Z7uzZfc "https://youtube.com/shorts/MLh2Z7uzZfc").
+Watch this [demo video](https://youtube.com/shorts/MLh2Z7uzZfc 'https://youtube.com/shorts/MLh2Z7uzZfc').
 
-Requirements for this setup
----------------------------
+## Requirements for this setup
 
-* OnSign TV Player installed on a BrightSign computer ([tutorial](https://onsign.atlassian.net/wiki/spaces/OTT/pages/30277659 "https://onsign.atlassian.net/wiki/spaces/OTT/pages/30277659")).
-* [Nexmosphere devices installed](https://nexmosphere.com/support-documentation/ "https://nexmosphere.com/support-documentation/") on a USB port of a BrightSign device.
-* 1x Nexmosphere XN-185 controller ([manual](https://static1.squarespace.com/static/6554c6b08c8bde3649fca4ed/t/66bf604c9e5bf60c7f35a714/1723818069229/XN-185+Quick+Start+Guide.pdf "https://nexmosphere.com/document/XN-185%20Quick%20Start%20Guide.pdf")).
-* 2x Push buttons with LED ([manual](https://static1.squarespace.com/static/6554c6b08c8bde3649fca4ed/t/66bcd0a43306306cdd14d329/1723650222461/Product+Manual+-+XT+Push+Button+interface.pdf "https://nexmosphere.com/document/Product%20Manual%20-%20XT%20Push%20Button%20interface.pdf")).
-* 1x X-Wave LED Strip ([manual](https://static1.squarespace.com/static/6554c6b08c8bde3649fca4ed/t/66be20825db46a4575c0349f/1723736198930/Manual+-+Controlling+X-Wave+LEDs.pdf "https://nexmosphere.com/document/Manual%20-%20Controlling%20X-Wave%20LEDs.pdf")).
-* 2x Nexmosphere XR-C10 (RFID antenna).
-* 2x XR-DR1 RFID antenna driver.
-* 1x RFID Tag.
+- Digisigns Player installed on a BrightSign computer ([tutorial](https://onsign.atlassian.net/wiki/spaces/OTT/pages/30277659 'https://onsign.atlassian.net/wiki/spaces/OTT/pages/30277659')).
+- [Nexmosphere devices installed](https://nexmosphere.com/support-documentation/ 'https://nexmosphere.com/support-documentation/') on a USB port of a BrightSign device.
+- 1x Nexmosphere XN-185 controller ([manual](https://static1.squarespace.com/static/6554c6b08c8bde3649fca4ed/t/66bf604c9e5bf60c7f35a714/1723818069229/XN-185+Quick+Start+Guide.pdf 'https://nexmosphere.com/document/XN-185%20Quick%20Start%20Guide.pdf')).
+- 2x Push buttons with LED ([manual](https://static1.squarespace.com/static/6554c6b08c8bde3649fca4ed/t/66bcd0a43306306cdd14d329/1723650222461/Product+Manual+-+XT+Push+Button+interface.pdf 'https://nexmosphere.com/document/Product%20Manual%20-%20XT%20Push%20Button%20interface.pdf')).
+- 1x X-Wave LED Strip ([manual](https://static1.squarespace.com/static/6554c6b08c8bde3649fca4ed/t/66be20825db46a4575c0349f/1723736198930/Manual+-+Controlling+X-Wave+LEDs.pdf 'https://nexmosphere.com/document/Manual%20-%20Controlling%20X-Wave%20LEDs.pdf')).
+- 2x Nexmosphere XR-C10 (RFID antenna).
+- 2x XR-DR1 RFID antenna driver.
+- 1x RFID Tag.
 
 Below are examplary images of the testbed built for this demo:
 
@@ -34,8 +32,7 @@ Below are examplary images of the testbed built for this demo:
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731669688284/testbed-down.jpg)
 
-BrightSign - USB connection
----------------------------
+## BrightSign - USB connection
 
 When using an XN controller with USB connection such as the XN-185 or XN-135, an USB-A to Micro-USB cable should be used to connect the micro USB interface of the XN-185/XN-135 to the USB-A interface of the BrightSign Player. The
 
@@ -43,10 +40,9 @@ XN controller is powered via the USB port of the BrightSign Player in this case.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731669706303/brightsign-xn185.jpg)
 
-XN-185 Xperience controller
----------------------------
+## XN-185 Xperience controller
 
-[The XN-185 Xperience controller manual](https://static1.squarespace.com/static/6554c6b08c8bde3649fca4ed/t/66bf604c9e5bf60c7f35a714/1723818069229/XN-185+Quick+Start+Guide.pdf "https://nexmosphere.com/document/XN-185%20Quick%20Start%20Guide.pdf").
+[The XN-185 Xperience controller manual](https://static1.squarespace.com/static/6554c6b08c8bde3649fca4ed/t/66bf604c9e5bf60c7f35a714/1723818069229/XN-185+Quick+Start+Guide.pdf 'https://nexmosphere.com/document/XN-185%20Quick%20Start%20Guide.pdf').
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731669728187/xn185-ports.jpg)
 
@@ -56,15 +52,13 @@ This is an interconnection scheme combining some Elements. Not all components of
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731669739755/xn185-combining-elements.jpg)
 
-XN-Range
---------
+## XN-Range
 
 The XN-180 and XN-185 both have 8 X-Talk interfaces, addressed 1 to 8. Since an address in an API command should always consist of 3 digits, the addresses are numbered 001, 002, and so on. The physical layout of the addresses on the XN-180 and XN-185 controller is indicated in the image on the right. The XN-135 has 3 X-Talk interfaces of which the 3rd is a MicroBay.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731669766340/xn-range.jpg)
 
-How to set up OnSign TV for this interactivity demonstration
-------------------------------------------------------------
+## How to set up Digisigns for this interactivity demonstration
 
 ### 1) Activate the Serial Port in the Player Settings
 
@@ -76,7 +70,7 @@ Open the **Player Settings** and find the option Serial Port Settings (RS-232), 
 
 ### 2) Create Automation Apps
 
-Log into your OnSign TV [account](https://app.onsign.tv/content/ "https://app.onsign.tv/content/") and go to **Content > New > App**.
+Log into your Digisigns [account](https://app.onsign.tv/content/ 'https://app.onsign.tv/content/') and go to **Content > New > App**.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731669831247/automation-app-1.jpg)
 
@@ -110,7 +104,7 @@ Now let’s test the Automation Apps created. Go to **Content in Player** in the
 
 After publishing the Automation App, click the **Play Icon** on the Content in Player page. In the window which opens, click the red **Play** button.
 
-If no feedback is returned, check the settings for the **Nexmosphere Device Channel (**[**X-talk interface**](https://onsign.atlassian.net/wiki/spaces/OTT/pages/edit-v2/33423517?draftShareId=fbe8253a-f062-49ea-9c92-f6549a013139#XN-185-Xperience-controller "https://onsign.atlassian.net/wiki/spaces/OTT/pages/edit-v2/33423517?draftShareId=fbe8253a-f062-49ea-9c92-f6549a013139#XN-185-Xperience-controller")**)** and the Serial Port Alias in the **Automation App Settings** & **Player Settings**.
+If no feedback is returned, check the settings for the **Nexmosphere Device Channel (**[**X-talk interface**](https://onsign.atlassian.net/wiki/spaces/OTT/pages/edit-v2/33423517?draftShareId=fbe8253a-f062-49ea-9c92-f6549a013139#XN-185-Xperience-controller 'https://onsign.atlassian.net/wiki/spaces/OTT/pages/edit-v2/33423517?draftShareId=fbe8253a-f062-49ea-9c92-f6549a013139#XN-185-Xperience-controller')**)** and the Serial Port Alias in the **Automation App Settings** & **Player Settings**.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731670037817/check-serial-port-1.jpg)
 
@@ -144,7 +138,7 @@ Now create two Campaigns to be shown when we **pick up** and **put back** the ob
 
 Go to the Player Menu and select **Interactivity**. Then click the **Add Interaction** button on the top-right. We will set four interactions. Two for the buttons pressed and two more when we pick up or put back the RFID Tag.
 
-The Local API will receive an API serial command from the XN-185 controller. These commands can be checked in the XN-185 quick start guide ([manual XN-185](https://nexmosphere.com/document/XN-185%20Quick%20Start%20Guide.pdf "https://nexmosphere.com/document/XN-185%20Quick%20Start%20Guide.pdf")).
+The Local API will receive an API serial command from the XN-185 controller. These commands can be checked in the XN-185 quick start guide ([manual XN-185](https://nexmosphere.com/document/XN-185%20Quick%20Start%20Guide.pdf 'https://nexmosphere.com/document/XN-185%20Quick%20Start%20Guide.pdf')).
 
 Fill in the destination field with the Campaigns created for each related action.
 
@@ -156,8 +150,7 @@ In order to guarantee the correct listening of the API serial commands received 
 
 Now it's time to test the whole configuration made so far and test the interactivity in practice!
 
-Alternative Demo Setup
-----------------------
+## Alternative Demo Setup
 
 ### 1) Create the Automation App “Serial Port Write Data”
 
@@ -167,7 +160,7 @@ Go to **Content > New > App > Automation & IoT,** and select **Serial Port Write
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731670302222/serial%20port%20write%20data.jpg)
 
-X-Wave Leds Commands: [link](https://nexmosphere.com/document/Manual%20-%20Controlling%20X-Wave%20LEDs.pdf "https://nexmosphere.com/document/Manual%20-%20Controlling%20X-Wave%20LEDs.pdf")
+X-Wave Leds Commands: [link](https://nexmosphere.com/document/Manual%20-%20Controlling%20X-Wave%20LEDs.pdf 'https://nexmosphere.com/document/Manual%20-%20Controlling%20X-Wave%20LEDs.pdf')
 
 For this demo, we have created three "Serial Port Write Data" Apps.
 
@@ -207,19 +200,19 @@ For this demo we have created five "**Automation Group**" Apps:
 
 In this alternative demo, we keep using the same Campaigns created for the first demo, but with a different setup as shown below:
 
-* **campaign-pickup**
+- **campaign-pickup**
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731670531898/campaign-pickup2.jpg)
 
-* **campaign-putback**
+- **campaign-putback**
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731670545541/campaign-putback2.jpg)
 
-* **campaign-pressed-button-1**
+- **campaign-pressed-button-1**
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731670573711/campaign-pressed-button1-2.jpg)
 
-* **campaign-pressed-button-2**
+- **campaign-pressed-button-2**
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731670588541/campaign-pressed-button2-2.jpg)
 

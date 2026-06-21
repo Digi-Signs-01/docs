@@ -1,5 +1,5 @@
 ---
-title: "Using Clock Apps"
+title: 'Using Clock Apps'
 slug: using-clock-apps
 publish: false
 date: 2025-05-03
@@ -9,41 +9,37 @@ categories:
   - start
 ---
 
-Using Clock Apps
-================
+# Using Clock Apps
 
 Clock Apps are quite useful, specially in public transportation, in companies and universities. Basically anywhere where people need to be on time. Check out how to display time and date info on your signage below:
 
-1. Go to the Content tab on your OnSign TV workspace. Click the "New" button on the top-left, followed by "App".
-2. A pop-up window will appear on your screen with all available OnSign TV Content Apps. The Clock category due to alphabetic order is one of the top categories in the sidebar menu. Select the design you like most. Below is an overview of some available Clock Apps:
+1. Go to the Content tab on your Digisigns workspace. Click the "New" button on the top-left, followed by "App".
+2. A pop-up window will appear on your screen with all available Digisigns Content Apps. The Clock category due to alphabetic order is one of the top categories in the sidebar menu. Select the design you like most. Below is an overview of some available Clock Apps:
 
-Simple Clocks
--------------
+## Simple Clocks
 
-* Analog Round Clock
-* Analog Square Clock
-* Digital Clock Simple
-* Holiday Clock
-* Glow Clock
-* Round Clock Modern
-* Clock Bar Modern
-* LCD Clock
+- Analog Round Clock
+- Analog Square Clock
+- Digital Clock Simple
+- Holiday Clock
+- Glow Clock
+- Round Clock Modern
+- Clock Bar Modern
+- LCD Clock
 
 These Simple Clocks Apps can be easily set to a small screen zone, letting the focus remain on the main content. Clocks are available in round and square layout. If you want something more modern looking, we offer digital style clocks. There is also a holiday themed clock for Christmas time.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731651204541/image.png)
 
-Multi City Clocks
------------------
+## Multi City Clocks
 
-A staple of international scenery are multi city clocks. OnSign TV offers two sets of multi city clocks. Set three different cities and trace your international clients' and coworkers’ timezone.
+A staple of international scenery are multi city clocks. Digisigns offers two sets of multi city clocks. Set three different cities and trace your international clients' and coworkers’ timezone.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731651242750/using-clock-apps_5.png)
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731651251920/001dc4ef-82f8-43c8-9ac2-ba33a5398d71.png)
 
-Event Countdown, Countdown, Time Elapsed and Timers
----------------------------------------------------
+## Event Countdown, Countdown, Time Elapsed and Timers
 
 Begin the anticipation to holidays or special events with the Event Countdown App and Countdown App. The Time Elapsed App, on the other hand, keeps track of how much time has passed since an event occurred – such as an accident or the last time a client had a complaint. There is even a Timer App you can set to count down or up.
 
@@ -57,5 +53,4 @@ Begin the anticipation to holidays or special events with the Event Countdown Ap
 
 4. If you like the result, hit “Save”. The App is now in your Content Library and ready to be used.
 
-OnSign TV Academy - Apps
-------------------------
+## Digisigns Academy - Apps

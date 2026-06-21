@@ -1,5 +1,5 @@
 ---
-title: "Deleting User Groups"
+title: 'Deleting User Groups'
 slug: deleting-user-groups
 publish: false
 date: 2025-05-03
@@ -9,14 +9,13 @@ categories:
   - start
 ---
 
-Deleting user groups
-====================
+# Deleting user groups
 
 Clear out permissions for all Users of a Group at once by deleting the User Group.
 
 If you wish to quickly remove permissions from a Group, you can simply delete the User Group. Users in this Group will then automatically lose all previously given permissions, as well as access to Content and Players.
 
-1. Click on your username in the bottom-left corner on your OnSign TV account and select “Settings”.
+1. Click on your username in the bottom-left corner on your Digisigns account and select “Settings”.
 2. Select “Users” from the menu.
 3. Click on the “Groups” tab in the header.
 4. Select the Group or Groups you wish to delete.  

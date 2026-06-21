@@ -1,5 +1,5 @@
 ---
-title: "Spm Dpc Installation"
+title: 'Spm Dpc Installation'
 slug: spm-dpc-installation
 publish: false
 date: 2025-05-03
@@ -9,8 +9,7 @@ categories:
   - start
 ---
 
-SPM DPC Installation
-====================
+# SPM DPC Installation
 
 From SPM version 3.2.0 onwards, there is a new SPM type which can be installed on any Android device. If there is a dedicated SPM for your device, a standard SPM still offers more privileges on your device's Android operating system. This new SPM type is useful in case there is no specific SPM for your device available.
 
@@ -18,22 +17,21 @@ This new SPM type is called DPC. It installs itself as a Device Administrator 
 
 The table below illustrates the functionalities available with each Android version.
 
-|  |  |
-| --- | --- |
-| **Functionality** | **Minimum Android Version** |
-| Remote Software Update | Android 6.0 |
-| Scheduled and Remote Reboot | Android 7.0 |
-| Remote Clock and Date adjustments | Android 9.0 |
-| Remote view | Not supported |
+|                                   |                             |
+| --------------------------------- | --------------------------- |
+| **Functionality**                 | **Minimum Android Version** |
+| Remote Software Update            | Android 6.0                 |
+| Scheduled and Remote Reboot       | Android 7.0                 |
+| Remote Clock and Date adjustments | Android 9.0                 |
+| Remote view                       | Not supported               |
 
 Even though the SPM DPC is more limited than the standard SPM, it is still highly recommended to install it if there is no other SPM type available for your device.
 
 With the SPM DPC your device will allow remote software update and receive all the bug fixes and enhancements of new OnSign versions.
 
-**Important:** Only OnSign TV player versions 10.3.7 or above are compatible with the SPM DPC.
+**Important:** Only Digisigns player versions 10.3.7 or above are compatible with the SPM DPC.
 
-Installation
-------------
+## Installation
 
 To install the SPM DPC, you need to perform a few more steps than a regular APK installation.
 
@@ -53,7 +51,7 @@ Choose "Reset options" and perform an (Erase all data) Factory Reset.
 
 **ATTENTION:** Factory Reset will erase all your device info.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731418429608/4fead0ba-88a9-4867-8c2a-d947e50f9eec%20(1).png)
+![](<https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731418429608/4fead0ba-88a9-4867-8c2a-d947e50f9eec%20(1).png>)
 
 After confirmation, the device will reset and reboot.
 
@@ -69,14 +67,14 @@ This is very important. A Device Administrator needs to be configured before any
 
 ### 3- Enable developer mode
 
-* Go to device Settings.
-* Click on "About".
-* Then, click 7 times on the Build number section to activate developer mode.
+- Go to device Settings.
+- Click on "About".
+- Then, click 7 times on the Build number section to activate developer mode.
 
 Once the developer mode is activated:
 
-* Go to Settings > System > Advanced and click on Developer Options.
-* Under Developer Options enable USB debugging.
+- Go to Settings > System > Advanced and click on Developer Options.
+- Under Developer Options enable USB debugging.
 
 ### 4- Install APK
 
@@ -106,20 +104,19 @@ Pay attention to the return message, if done correctly it should say:  Success:
 
 ![](https://docs.onsign.tv/resources/Storage/en/spm-dpc-installation/spm-dpc-installation-2024-07-04.png)
 
-### 6- Install OnSign TV
+### 6- Install Digisigns
 
-Once the SPM DPC is installed, it's time to install the OnSign TV Player. The latest version of the OnSign TV APK is always available at: <https://app.onsign.tv/download/player/latest/android/>.
+Once the SPM DPC is installed, it's time to install the Digisigns Player. The latest version of the Digisigns APK is always available at: <https://app.onsign.tv/download/player/latest/android/>.
 
-OnSign TV can be installed by:
+Digisigns can be installed by:
 
-* Downloading and installing it on the device;
-* Downloading, copying it to a USB drive, and using the USB drive to install the APK; or
-* Using the ADB command: `adb install`
+- Downloading and installing it on the device;
+- Downloading, copying it to a USB drive, and using the USB drive to install the APK; or
+- Using the ADB command: `adb install`
 
-Once the player is installed, start OnSign TV and ensure to give it all requested permissions.
+Once the player is installed, start Digisigns and ensure to give it all requested permissions.
 
-Check that the SPM DPC was correctly installed
-----------------------------------------------
+## Check that the SPM DPC was correctly installed
 
 To ensure everything is correct, you can check if the SPM was correctly installed by requesting a remote reboot on the player settings page and verifying the SPM version in the status page of the player information page.
 

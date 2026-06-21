@@ -1,5 +1,5 @@
 ---
-title: "Replacing A Hardware Device"
+title: 'Replacing A Hardware Device'
 slug: replacing-a-hardware-device
 publish: false
 date: 2025-05-03
@@ -9,14 +9,13 @@ categories:
   - start
 ---
 
-Replacing a hardware device
-===========================
+# Replacing a hardware device
 
 Replacing a hardware device is often required for upgrades or to replace a bad unit.
 
 The process to replace an existing Player is as easy as [connecting a Player](/basic-player-operations/connecting-a-player):
 
-1. Get your new hardware device ready, make sure the device is connected to the internet and open OnSign TV.
+1. Get your new hardware device ready, make sure the device is connected to the internet and open Digisigns.
 2. Log into your account and go to the Players section.
 3. Click on the Player you want to replace.
 4. Click on "Settings".

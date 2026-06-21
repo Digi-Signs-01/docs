@@ -1,5 +1,5 @@
 ---
-title: "Data Feed Content Channels"
+title: 'Data Feed Content Channels'
 slug: data-feed-content-channels
 publish: false
 date: 2025-05-03
@@ -9,16 +9,15 @@ categories:
   - start
 ---
 
-Data Feed Content Channels
-==========================
+# Data Feed Content Channels
 
-Content Channels provide unique, original, high-quality content to be used with any OnSign TV App which is Data Feed compatible.
+Content Channels provide unique, original, high-quality content to be used with any Digisigns App which is Data Feed compatible.
 
-OnSign TV is the sole creator of all written content. Images are either Creative Commons or copyright-free. You can use this content on your screens worry-free.
+Digisigns is the sole creator of all written content. Images are either Creative Commons or copyright-free. You can use this content on your screens worry-free.
 
-The OnSign TV Content Channels are stored in your OnSign TV Content under the Folder structure:
+The Digisigns Content Channels are stored in your Digisigns Content under the Folder structure:
 
-* \Content\Content Library\Data Feeds
+- \Content\Content Library\Data Feeds
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731681535578/data-feed-content-channels_1.png)
 

@@ -1,5 +1,5 @@
 ---
-title: "Single Sign On Sso"
+title: 'Single Sign On Sso'
 slug: single-sign-on-sso
 publish: false
 date: 2025-05-03
@@ -9,14 +9,13 @@ categories:
   - start
 ---
 
-Single sign-On (SSO)
-====================
+# Single sign-On (SSO)
 
-The Single Sign-On (SSO) of OnSign TV enables Enterprise customers to integrate their domain authentication authority using SAML. This allows users to log into OnSign TV using their corporate credentials, without having to create and manage a separate OnSign TV account.
+The Single Sign-On (SSO) of Digisigns enables Enterprise customers to integrate their domain authentication authority using SAML. This allows users to log into Digisigns using their corporate credentials, without having to create and manage a separate Digisigns account.
 
 Key benefits for using SSO:
 
-1. **Improved user experience** – Users can log into OnSign TV with a single set of credentials, without having to switch between applications.
+1. **Improved user experience** – Users can log into Digisigns with a single set of credentials, without having to switch between applications.
 2. **Increased security** – SSO reduces the risk of password breaches by eliminating the need for users to remember and manage multiple passwords.
 3. **Reduced IT costs** – Single Sign-On (SSO) can simplify IT administration and reduce the cost of managing user accounts by providing a central point to grant and revoke user privileges. This ensures that only authorized users have access to the platform and makes it easy to revoke access when a user is no longer with the organization.
 
@@ -31,5 +30,4 @@ Follow these steps to configure SSO:
 
 1. Follow the steps presented by the platform.
 
-OnSign TV Single Sign-On
-------------------------
+## Digisigns Single Sign-On

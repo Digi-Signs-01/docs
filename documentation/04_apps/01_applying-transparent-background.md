@@ -1,5 +1,5 @@
 ---
-title: "Applying Transparent Background"
+title: 'Applying Transparent Background'
 slug: applying-transparent-background
 publish: false
 date: 2025-05-03
@@ -9,12 +9,11 @@ categories:
   - start
 ---
 
-Applying transparent background
-===============================
+# Applying transparent background
 
-Each OnSign TV  Player App is customazible on different levels. Some of them offer, besides color options, the opacity bar. Set the App’s background to transparent or less opaque in order to show content from the layer underneath.
+Each Digisigns  Player App is customazible on different levels. Some of them offer, besides color options, the opacity bar. Set the App’s background to transparent or less opaque in order to show content from the layer underneath.
 
-1. In your OnSign TV account, go to the “Content” page. You can create a new App by clicking on "New" > "App", or edit an existing one.
+1. In your Digisigns account, go to the “Content” page. You can create a new App by clicking on "New" > "App", or edit an existing one.
 2. The vast majority of Apps have the opacity bar enabled.
 3. Click on the “Background color” box. Select a color and move the arrow on the opacity bar with the checkered design to adjust transparency. Scroll it all the way to the left to make it completely transparent.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731650019125/make-apps-background-transparent_2.png)  

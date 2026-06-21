@@ -1,5 +1,5 @@
 ---
-title: "Installing Panasonic Player Software"
+title: 'Installing Panasonic Player Software'
 slug: installing-panasonic-player-software
 publish: false
 date: 2025-05-03
@@ -9,12 +9,11 @@ categories:
   - start
 ---
 
-Installing Panasonic Player Software
-====================================
+# Installing Panasonic Player Software
 
-Install the OnSign TV Player Software on the Panasonic Android TV AF1 Series. These displays are available in a range of sizes and are specifically designed for professional digital signage. Check the complete specifications on the Panasonic website.
+Install the Digisigns Player Software on the Panasonic Android TV AF1 Series. These displays are available in a range of sizes and are specifically designed for professional digital signage. Check the complete specifications on the Panasonic website.
 
-Below, you find the instructions to easily set up the OnSign TV Player App on your display:
+Below, you find the instructions to easily set up the Digisigns Player App on your display:
 
 1. Turn your Panasonic Display on.
 2. On the remote control, click “Input” and select “Open Port Platform”.
@@ -32,7 +31,7 @@ Below, you find the instructions to easily set up the OnSign TV Player App on yo
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731530535026/panasonic-how-to-install-onsign-tv_3.jpg)
 
-6. Select the OnSign TV  Player Application. It is located on the 2nd page, so click "next".
+6. Select the Digisigns  Player Application. It is located on the 2nd page, so click "next".
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731530563139/panasonic-how-to-install-onsign-tv_4.jpg)
 

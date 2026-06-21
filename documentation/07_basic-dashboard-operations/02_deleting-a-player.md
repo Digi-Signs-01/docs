@@ -9,16 +9,15 @@ categories:
   - start
 ---
 
-Deleting a player
-=================
+# Deleting a player
 
-OnSign TV is quite flexible on how you manage the number of Players connected to your account, meaning you can add or remove Players at any time.
+Digisigns is quite flexible on how you manage the number of Players connected to your account, meaning you can add or remove Players at any time.
 
 ### Important note:
 
-* If you are removing the Player and want to also reduce the number of licenses you subscribe to, you will have to change the number of subscribed licenses after deleting the Player.
-* Removing the Player will also unpublish all the Content from this specific device.
-* You can always re-connect the device using the paring code, but the device will be connected empty, with no content published to it.
+- If you are removing the Player and want to also reduce the number of licenses you subscribe to, you will have to change the number of subscribed licenses after deleting the Player.
+- Removing the Player will also unpublish all the Content from this specific device.
+- You can always re-connect the device using the paring code, but the device will be connected empty, with no content published to it.
 
 ### To remove a Player:
 

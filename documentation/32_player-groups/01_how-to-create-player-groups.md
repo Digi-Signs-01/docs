@@ -1,5 +1,5 @@
 ---
-title: "How To Create Player Groups"
+title: 'How To Create Player Groups'
 slug: how-to-create-player-groups
 publish: false
 date: 2025-05-03
@@ -9,14 +9,13 @@ categories:
   - start
 ---
 
-How to create Player Groups
-===========================
+# How to create Player Groups
 
 Group Players together and publish Content faster.
 
 When you reach a certain number of Players, Content managing can become confusing. How to make sure you are publishing the right Content to all the right Players? Player Groups is the answer! Combine Players with generally similar Content into Groups and speed up the publishing process.
 
-1. Click on the “Player Groups” tab in your OnSign TV account.
+1. Click on the “Player Groups” tab in your Digisigns account.
 2. Hit the orange “New Player Group” button in the top-right corner.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1742830864784/image.png)
@@ -39,5 +38,4 @@ Alternatively and for following Content publishing, click on the Player Group. T
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1742831474091/image.png)
 
-OnSign TV Academy - Player Groups
----------------------------------
+## Digisigns Academy - Player Groups

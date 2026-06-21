@@ -1,5 +1,5 @@
 ---
-title: "Installing Linux Player Software"
+title: 'Installing Linux Player Software'
 slug: installing-linux-player-software
 publish: false
 date: 2025-05-03
@@ -9,19 +9,16 @@ categories:
   - start
 ---
 
-Installing Linux Player Software
-================================
+# Installing Linux Player Software
 
-Requirements:
--------------
+## Requirements:
 
-* Intel x86-based PC
-* 2GB of RAM
-* 32GB of storage
-* Ubuntu **18.04** or **20.04**
+- Intel x86-based PC
+- 2GB of RAM
+- 32GB of storage
+- Ubuntu **18.04** or **20.04**
 
-Installation procedure:
------------------------
+## Installation procedure:
 
 On a clean Ubuntu 18.04 or 20.04:
 
@@ -31,10 +28,9 @@ On a clean Ubuntu 18.04 or 20.04:
    1. sudo apt-get update
    2. sudo apt install ./FILE.deb (Substitute "FILE" using the **installation file name** downloaded in step 1)
 
-Done, the OnSign TV  Player App is installed and will be available to use. In the next step, [connect the Player to your account](/basic-player-operations/connecting-a-player).
+Done, the Digisigns  Player App is installed and will be available to use. In the next step, [connect the Player to your account](/basic-player-operations/connecting-a-player).
 
-Additional Settings
--------------------
+## Additional Settings
 
 Before sending your Player to the field, here are a few additional settings we recommend for reliable and smooth operation:
 

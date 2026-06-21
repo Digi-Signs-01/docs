@@ -1,5 +1,5 @@
 ---
-title: "Converting Mov To Mp4"
+title: 'Converting Mov To Mp4'
 slug: converting-mov-to-mp4
 publish: false
 date: 2025-05-03
@@ -9,10 +9,9 @@ categories:
   - start
 ---
 
-Converting MOV to MP4
-=====================
+# Converting MOV to MP4
 
-OnSign TV supports several video formats, such as MKV, AVI, MP4, MPG, and MPEG. If you try to upload any other format however, the OnSign TV platform will display an uploading error message. Other video formats must be converted to any of the supported file formats. This includes MOV, the format for Apple's QuickTime.
+Digisigns supports several video formats, such as MKV, AVI, MP4, MPG, and MPEG. If you try to upload any other format however, the Digisigns platform will display an uploading error message. Other video formats must be converted to any of the supported file formats. This includes MOV, the format for Apple's QuickTime.
 
 To convert MOV to MP4, you can either download a software or use your computer's default settings.
 

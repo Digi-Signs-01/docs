@@ -1,5 +1,5 @@
 ---
-title: "Configuring Player Brightness Control"
+title: 'Configuring Player Brightness Control'
 slug: configuring-player-brightness-control
 publish: false
 date: 2025-05-03
@@ -9,10 +9,9 @@ categories:
   - start
 ---
 
-Configuring Player Brightness Control
-=====================================
+# Configuring Player Brightness Control
 
-OnSign TV allows you to manage the brightness of your screens individually, in groups, and on a schedule. This is useful for screens which are outdoors, as you want them to be brighter during the day and darker at night.
+Digisigns allows you to manage the brightness of your screens individually, in groups, and on a schedule. This is useful for screens which are outdoors, as you want them to be brighter during the day and darker at night.
 
 To manage the brightness of your screens, follow these steps:
 
@@ -33,5 +32,4 @@ Second, brightness control can help you save energy. By reducing the brightness 
 
 Finally, brightness control can help you comply with local regulations. In some areas, there are rules about how bright your signs can be at night. By using brightness control, you can make sure that your signs are in compliance with these regulations.
 
-Expert Tips - Brightness Control
---------------------------------
+## Expert Tips - Brightness Control

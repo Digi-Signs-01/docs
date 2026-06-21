@@ -1,5 +1,5 @@
 ---
-title: "Setting Permissions To Users"
+title: 'Setting Permissions To Users'
 slug: setting-permissions-to-users
 publish: false
 date: 2025-05-03
@@ -9,12 +9,11 @@ categories:
   - start
 ---
 
-Setting permissions to users
-============================
+# Setting permissions to users
 
-When you create an additional user account, restricted users can only modify the Content or Players they create on their own. Upon adding a user account, you can give the user permissions to change previous Content and Players which are already stored on your OnSign TV account:
+When you create an additional user account, restricted users can only modify the Content or Players they create on their own. Upon adding a user account, you can give the user permissions to change previous Content and Players which are already stored on your Digisigns account:
 
-1. In your OnSign TV account, click on your username and hit “Settings” from the drop-down menu. Then, select “Users” on the sidebar menu.
+1. In your Digisigns account, click on your username and hit “Settings” from the drop-down menu. Then, select “Users” on the sidebar menu.
 2. Click the edit icon (the button below "Action") beside the user for whom you want to expand permissions.
 
 ![](https://docs.onsign.tv/resources/Storage/en/setting-permissions-to-other-user-account/setting-permissions-to-other-user-account_1.png)
@@ -27,8 +26,7 @@ Now, take a look at the sidebar. If you edit a restricted user, you will see the
 
 ![](https://docs.onsign.tv/resources/Storage/en/setting-permissions-to-other-user-account/setting-permissions-to-other-user-account_3.png)
 
-**Content Permissions**
------------------------
+## **Content Permissions**
 
 Choose what Content the user can have access to and what they can do with it.
 
@@ -49,8 +47,7 @@ Confirm with “Remove Permission”.
 
 ![](https://docs.onsign.tv/resources/Storage/en/setting-permissions-to-other-user-account/setting-permissions-to-other-user-account_6.jpg)
 
-**Player Permissions**
-----------------------
+## **Player Permissions**
 
 Allow the user to see the Players or Player Groups you want and specify which actions they can perform on them.
 
@@ -66,10 +63,8 @@ To remove Player permissions:
 
 ![](https://docs.onsign.tv/resources/Storage/en/setting-permissions-to-other-user-account/setting-permissions-to-other-user-account_8.png)
 
-**OnSign TV Academy - Users and Users Groups**
-----------------------------------------------
+## **Digisigns Academy - Users and Users Groups**
 
-**Expert Tips - Permissions**
------------------------------
+## **Expert Tips - Permissions**
 
 ###

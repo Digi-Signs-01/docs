@@ -1,5 +1,5 @@
 ---
-title: "Creating An App"
+title: 'Creating An App'
 slug: creating-an-app
 publish: false
 date: 2025-05-03
@@ -9,8 +9,7 @@ categories:
   - start
 ---
 
-Creating an App
-===============
+# Creating an App
 
 With Apps you make your digital signage content more dynamic and up to date.
 
@@ -18,10 +17,9 @@ Creating an App is fantastically easy. Then show secondary Apps like a clock or 
 
 Start by creating the App!
 
-Creating an App
----------------
+## Creating an App
 
-1. Go to the Content page of your OnSign TV account.
+1. Go to the Content page of your Digisigns account.
 2. On the top of the page, hit the "New" button and choose "App".  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731649765830/how-to-add-apps-to-campaigns_1.png)
 3. Then a pop-up window will appear with all available Apps you can choose from to use as Content for your digital signage.
@@ -35,8 +33,7 @@ Creating an App
 
 You can reuse the App as many times as you like. There is no need to create a new instance of the App all over again. Just keep in mind that if you edit any settings, **the changes will apply everywhere you use the specific App**. If you want the same clock but in a different color and want to keep the existing App for other Content, you can create a new clock App.
 
-Add an App to a Campaign
-------------------------
+## Add an App to a Campaign
 
 1. With your App created, it can be used in a Campaign. If you are already in your Campaign Editor but haven't create the App you want to add yet, there is a second way to create an App directly in the Campaign Editor. When creating or editing a Campaign, scroll down to the bottom of the page until you see the Content box.
 2. It's the same process as above. Hit the "New" button and choose "App".  
@@ -44,5 +41,4 @@ Add an App to a Campaign
 3. Again a pop-up window will appear with all available Apps. Create and customize the App. It will be appear in the App folder.
 4. Drag the already existing or the newly created App to the [Timeline to add it to the Campaign](https://onsign.atlassian.net/wiki/spaces/OTT/pages/30998577).
 
-OnSign TV Academy - Apps
-------------------------
+## Digisigns Academy - Apps

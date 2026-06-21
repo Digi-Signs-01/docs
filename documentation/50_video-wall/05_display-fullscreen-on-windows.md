@@ -1,5 +1,5 @@
 ---
-title: "Display Fullscreen On Windows"
+title: 'Display Fullscreen On Windows'
 slug: display-fullscreen-on-windows
 publish: false
 date: 2025-05-03
@@ -9,33 +9,32 @@ categories:
   - start
 ---
 
-Display fullscreen on Windows
-=============================
+# Display fullscreen on Windows
 
 Display only what matters!
 
-You will likely have other application bars on the screen besides the OnSign TV  Player App if you use a computer.
+You will likely have other application bars on the screen besides the Digisigns  Player App if you use a computer.
 
 Follow the steps below and get rid of disturbing bars!
 
-Very recent OnSign TV Player App for Windows versions, can be set to fullscreen directly in the Player Settings. For previous versions, please see the instructions in the second part.
+Very recent Digisigns Player App for Windows versions, can be set to fullscreen directly in the Player Settings. For previous versions, please see the instructions in the second part.
 
-These instructions apply to the OnSign TV  Player App for Windows 10.3.2 and above.
+These instructions apply to the Digisigns  Player App for Windows 10.3.2 and above.
 
-1. Go to your Player in your OnSign TV account and select the Settings menu.
+1. Go to your Player in your Digisigns account and select the Settings menu.
 2. Scroll almost to the bottom where you find the Window Configuration and toggle it on.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731674543452/adjusting-the-resolution-on-windows%201%20(1).png)
+![](<https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731674543452/adjusting-the-resolution-on-windows%201%20(1).png>)
 
-3. Choose Fullscreen for the OnSign TV Player App to take up the whole display.
+3. Choose Fullscreen for the Digisigns Player App to take up the whole display.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731674557642/display-fullscreen-on-windows.png)
 
 4. Save the Changes.
 
-On previous OnSign TV Player App for Windows, the settings are applied on the Windows Desktop.
+On previous Digisigns Player App for Windows, the settings are applied on the Windows Desktop.
 
-5. Right click on the OnSign TV  Player App's main screen and select “Player Settings”. Then mark "Fullscreen".
+5. Right click on the Digisigns  Player App's main screen and select “Player Settings”. Then mark "Fullscreen".
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731674627295/display-fullscreen-windows-1.jpg)
 

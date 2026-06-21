@@ -1,5 +1,5 @@
 ---
-title: "Using External Storage"
+title: 'Using External Storage'
 slug: using-external-storage
 publish: false
 date: 2025-05-03
@@ -9,8 +9,7 @@ categories:
   - start
 ---
 
-Using external storage
-======================
+# Using external storage
 
 Using an external storage such as a SD card, or USB drive is a handy way to extend the original hardware storage.
 
@@ -19,21 +18,20 @@ Important - Make sure to use a reliable and good quality external storage device
 Follow the steps below to start using your external storage:
 
 1. Connect a SD card, or USB drive to the Player.
-2. Go to your OnSign TV account and click on the “Players” tab. Select the Player to which you have connected the external storage.
+2. Go to your Digisigns account and click on the “Players” tab. Select the Player to which you have connected the external storage.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731406817116/using-android-external-storage_1.png)
 
 3. Select “Settings” from the menu on the left.
 4. On the next page, scroll down to “Storage Settings”.
 5. Select “Use External Storage”
-6. Find out and enter your external storage device path. The path should look something like mnt/external\_sd or mnt/external. However, the path is different across devices and might be different on the one you use. If you don't know the external storage path, there are step-by-step instructions at the end of this article.
+6. Find out and enter your external storage device path. The path should look something like mnt/external_sd or mnt/external. However, the path is different across devices and might be different on the one you use. If you don't know the external storage path, there are step-by-step instructions at the end of this article.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731406853722/using-android-external-storage_3.png)
 
 7. Finish with “Save Changes” at the bottom of the page.
 
-Finding the External Storage Path
----------------------------------
+## Finding the External Storage Path
 
 1. Connect your external storage to the Android device.
 2. Open the file browser app, usually this is called “My Files”, but depending on the manufacturer, it may have a different name.

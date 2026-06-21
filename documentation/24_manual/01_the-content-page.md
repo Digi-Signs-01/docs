@@ -1,5 +1,5 @@
 ---
-title: "The Content Page"
+title: 'The Content Page'
 slug: the-content-page
 publish: false
 date: 2025-05-03
@@ -9,10 +9,9 @@ categories:
   - start
 ---
 
-The Content page
-================
+# The Content page
 
-When you log into your OnSign TV account, the first page you see is your Content page. Let’s get familiar with it.
+When you log into your Digisigns account, the first page you see is your Content page. Let’s get familiar with it.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731661763778/40223cee-1d54-4310-b482-0463c021f8e7.png)
 
@@ -40,13 +39,13 @@ Staying on the left, we look at the very bottom. Here is your name, email addres
 The menu contains a link to:
 
 1. your account settings;
-2. your OnSign TV subscription;
+2. your Digisigns subscription;
 3. the player app download area: [Download Signage Players](https://onsign.tv/downloads/;)
 4. the tutorial collection: [Articles](/tutorials)
 5. open a new email draft to the support desk;
-6. sign out from your OnSign TV account.
+6. sign out from your Digisigns account.
 
-The main area of the Content page consists of all your content. This big “Welcome to OnSign TV!” message at the center will vanish and make room for your content once you start working with your account. Content Folders are on top, and loose content items are shown at the bottom as thumbnails.
+The main area of the Content page consists of all your content. This big “Welcome to Digisigns!” message at the center will vanish and make room for your content once you start working with your account. Content Folders are on top, and loose content items are shown at the bottom as thumbnails.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731661904513/d605231e-25fa-4994-bfde-96d803664de9.png)
 
@@ -70,7 +69,7 @@ Directly to the right of the grid/list view icon, you find another little arrow 
 
 This area will provide additional information about the content. First, all available options for this content will be shown, such as publishing, but also deleting. Second, information about the content itself is shown, like the file size and dimensions.
 
-If you scroll down on this uncollapsed view you can see how much storage space of your OnSign TV account you are using and how much is left. This information will be there even if you don’t select any content items.
+If you scroll down on this uncollapsed view you can see how much storage space of your Digisigns account you are using and how much is left. This information will be there even if you don’t select any content items.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731662000285/016a66ed-e2ee-4689-aff8-715ffbad5fb8.png)
 
@@ -78,16 +77,16 @@ Let’s collapse this area again. Looking up on the right is a search bar. This 
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731662030050/130d7343-b19d-4f2a-a64d-30e9a82a8047.png)
 
-At least. you may want to know how to add your own content to your account. Upload your images and videos by simple drag and drop onto the content area. Or you can click on the orange “New” button in the middle. There is an option to upload a file, but also several options to create one of the many content features OnSign TV is providing to you.
+At least. you may want to know how to add your own content to your account. Upload your images and videos by simple drag and drop onto the content area. Or you can click on the orange “New” button in the middle. There is an option to upload a file, but also several options to create one of the many content features Digisigns is providing to you.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731662048565/8ccf94a6-2c61-425c-86b9-97c17b4d9b61.png)
 
 You will get to know these features more in detail in other tutorials. In short:
 
-* App: OnSign TV has a large library of pre-designed and dynamic content widgets.
-* Campaign: A Campaign allows you to segment your screen into several regions and fill each region with its own content loop.
-* Composition: A Composition is a free form canvas which you can fill however you like.
-* Data Feed: Data Feeds allow you to write your own database or integrate external data sources like Google Sheets and use as a source for apps or compositions to draw from dynamic information.
-* Folder: Folders help you to keep your content tidy.
-* Playlist: A Playlist is a full-screen loop of content
-* Audio Playlist: You can have an audio track which is fully separate from your visual content.
+- App: Digisigns has a large library of pre-designed and dynamic content widgets.
+- Campaign: A Campaign allows you to segment your screen into several regions and fill each region with its own content loop.
+- Composition: A Composition is a free form canvas which you can fill however you like.
+- Data Feed: Data Feeds allow you to write your own database or integrate external data sources like Google Sheets and use as a source for apps or compositions to draw from dynamic information.
+- Folder: Folders help you to keep your content tidy.
+- Playlist: A Playlist is a full-screen loop of content
+- Audio Playlist: You can have an audio track which is fully separate from your visual content.

@@ -1,5 +1,5 @@
 ---
-title: "Adding Permissions To User Groups"
+title: 'Adding Permissions To User Groups'
 slug: adding-permissions-to-user-groups
 publish: false
 date: 2025-05-03
@@ -9,14 +9,13 @@ categories:
   - start
 ---
 
-Adding permissions to user groups
-=================================
+# Adding permissions to user groups
 
 Give access to Content and Players to multiple restricted users in one click.
 
-If as a OnSign TV admin, you created new Content or Players and wish to grant multiple restricted users access to it, simply add permission to a user group. This works the same way as giving permissions to individual accounts.
+If as a Digisigns admin, you created new Content or Players and wish to grant multiple restricted users access to it, simply add permission to a user group. This works the same way as giving permissions to individual accounts.
 
-1. Click on your username on the bottom-left corner on your OnSign TV dashboard and select “Settings”.
+1. Click on your username on the bottom-left corner on your Digisigns dashboard and select “Settings”.
 2. Click on “Users” at the bottom of the sidebar menu and subsequently on "Groups" in the header.
 3. Find the group you want to modify permissions for and hit the “Edit” icon on the right.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731676519334/how-to-add-permissions-to-groups_2.png)

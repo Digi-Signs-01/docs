@@ -1,5 +1,5 @@
 ---
-title: "Google Sheets As Data Feed External Source"
+title: 'Google Sheets As Data Feed External Source'
 slug: google-sheets-as-data-feed-external-source
 publish: false
 date: 2025-05-03
@@ -9,8 +9,7 @@ categories:
   - start
 ---
 
-Google Sheets as Data Feed external source
-==========================================
+# Google Sheets as Data Feed external source
 
 Sourcing data from Google Sheets works in the same way as every other external data source before. No Data Feed is created for its own sake. They should do something.
 
@@ -54,5 +53,4 @@ If you need help with setting your Google Sheet shareable, go to Google Support 
 8. You return back to your Data Feed where the complete information from your Google Sheet is now added. Click on the orange Create button at the bottom right.
 9. Another window opens where you can make changes if needed. Click on “Save” on the top right. Your Data Feed is now ready to be used in a Data Feed Enabled App.
 
-OnSign TV Academy - Data Feed App
----------------------------------
+## Digisigns Academy - Data Feed App

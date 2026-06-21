@@ -1,5 +1,5 @@
 ---
-title: "Enable Wifi Connection Panasonic"
+title: 'Enable Wifi Connection Panasonic'
 slug: enable-wifi-connection-panasonic
 publish: false
 date: 2025-05-03
@@ -9,10 +9,9 @@ categories:
   - start
 ---
 
-Enable Wifi connection (Panasonic)
-==================================
+# Enable Wifi connection (Panasonic)
 
-You need an internet connection to download the OnSign TV  Player App to your device, as well as to publish Content from your web account to the screen.
+You need an internet connection to download the Digisigns  Player App to your device, as well as to publish Content from your web account to the screen.
 
 Here, you learn how to connect your Panasonic device to the local Wifi network.
 

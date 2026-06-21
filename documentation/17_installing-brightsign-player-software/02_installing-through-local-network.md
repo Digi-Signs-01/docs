@@ -1,5 +1,5 @@
 ---
-title: "Installing Through Local Network"
+title: 'Installing Through Local Network'
 slug: installing-through-local-network
 publish: false
 date: 2025-05-03
@@ -9,20 +9,17 @@ categories:
   - start
 ---
 
-Installing through local network
-================================
+# Installing through local network
 
-Requirements:
--------------
+## Requirements:
 
-* Use a USB stick or an empty FAT32 or ExFAT SD Card. If the storage device is not empty, the installation process will not work!
-* Make sure the Player's ethernet cable is connected so that the Player can obtain an IP address.
-* You will need a computer connected to the same network as the Player to access the BrightSign Player web interface remotely.
-* BrightSign firmware 8 and up.
-  + Devices with older BrightSign firmware which had the PlayerPlayer version 3 installed will still work with the installation done as described in this tutorial, but from OnSign TV version 10 onwards, you need the BrightSign firmware 8 and up.
+- Use a USB stick or an empty FAT32 or ExFAT SD Card. If the storage device is not empty, the installation process will not work!
+- Make sure the Player's ethernet cable is connected so that the Player can obtain an IP address.
+- You will need a computer connected to the same network as the Player to access the BrightSign Player web interface remotely.
+- BrightSign firmware 8 and up.
+  - Devices with older BrightSign firmware which had the PlayerPlayer version 3 installed will still work with the installation done as described in this tutorial, but from Digisigns version 10 onwards, you need the BrightSign firmware 8 and up.
 
-Set up & Install the OnSign TV Player App
------------------------------------------
+## Set up & Install the Digisigns Player App
 
 1. Have your Player's HDMI connected to a display.
 2. Disconnect the power cable.
@@ -59,12 +56,12 @@ Set up & Install the OnSign TV Player App
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1742841299550/brightsign-install-onsign-tv-local-network-method_6.png)
 
-* **URL for web folder**: [`https://app.onsign.tv/brightsign`](https://app.onsign.tv/brightsign).
+- **URL for web folder**: [`https://app.onsign.tv/brightsign`](https://app.onsign.tv/brightsign).
 
 15. Click on "Finish".
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1742841348223/brightsign-install-onsign-tv-local-network-method_7.png)
 
-16. Once the setup is completed, the OnSign TV paring code will be shown on the device’s screen.
+16. Once the setup is completed, the Digisigns paring code will be shown on the device’s screen.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1742841366027/brightsign-install-onsign-tv-local-network-method_8.png)

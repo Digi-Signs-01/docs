@@ -1,5 +1,5 @@
 ---
-title: "Adjust The Number Of Player Licenses"
+title: 'Adjust The Number Of Player Licenses'
 slug: adjust-the-number-of-player-licenses
 publish: false
 date: 2025-05-03
@@ -9,12 +9,11 @@ categories:
   - start
 ---
 
-Adjust the number of player licenses
-====================================
+# Adjust the number of player licenses
 
-If your current OnSign TV subscription scope doesn’t meet your needs anymore, you can increase or decrease the number of Player licenses through your account in a few steps. Here is how:
+If your current Digisigns subscription scope doesn’t meet your needs anymore, you can increase or decrease the number of Player licenses through your account in a few steps. Here is how:
 
-1. Click on your username on the bottom-left corner of your OnSign TV account. Then select “Subscription” from the drop-down menu.  
+1. Click on your username on the bottom-left corner of your Digisigns account. Then select “Subscription” from the drop-down menu.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731661164868/d3513ec5-3ccc-476b-b94f-03f8151e699c.png)
 2. Click the “Change Subscription” button in the top-right corner.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731661178598/26bcbfa4-414f-4d5b-9dd8-4bd33ae639d1.png)
@@ -22,7 +21,7 @@ If your current OnSign TV subscription scope doesn’t meet your needs anymore, 
 
 As you increase or decrease the amount of Players, the value you will have to pay in the current and the following months will be clearly displayed below. For the current month, you will only be charged for the additional Players’ usage during the remaining days. If you decrease your licenses, you will receive a credit for the remaining days which will be applied to your next invoice.
 
-There is a discount for subscriptions with more than 25 Players. Check the OnSign TV [pricing page](https://onsign.tv/pricing/) for more info.
+There is a discount for subscriptions with more than 25 Players. Check the Digisigns [pricing page](https://onsign.tv/pricing/) for more info.
 
 Confirm with "Update to X licenses".
 

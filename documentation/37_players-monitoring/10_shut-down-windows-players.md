@@ -1,5 +1,5 @@
 ---
-title: "Shut Down Windows Players"
+title: 'Shut Down Windows Players'
 slug: shut-down-windows-players
 publish: false
 date: 2025-05-03
@@ -9,14 +9,13 @@ categories:
   - start
 ---
 
-Shut down Windows Players
-=========================
+# Shut down Windows Players
 
-Set a schedule for your Windows  Player to shut down automatically after working hours on your [OnSign TV account](https://app.onsign.tv/device/).
+Set a schedule for your Windows  Player to shut down automatically after working hours on your [Digisigns account](https://app.onsign.tv/device/).
 
 In either the default Player settings or the settings of your particular Player, you have the option to shut down your Player. This feature is available only to Windows  Players. Other systems may just have the option to turn off the screen. With this feature, your staff has one task less to do at the end of their shift. It is still necessary to turn the Player back on manually the next day, though.
 
-1. In your OnSign TV account, click the “Players” tab at the left of the page, then select a Player running on Windows.  
+1. In your Digisigns account, click the “Players” tab at the left of the page, then select a Player running on Windows.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731688760307/how-to-shut-down-windows-players_1.png)
 2. Choose "Settings" from the menu.
 3. Scroll down to the “Working Schedule” section. For what to do “When outside of working schedule" choose the option “Turn device off”.  

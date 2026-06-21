@@ -1,5 +1,5 @@
 ---
-title: "Optimizing Videos With Handbrake"
+title: 'Optimizing Videos With Handbrake'
 slug: optimizing-videos-with-handbrake
 publish: false
 date: 2025-05-03
@@ -9,10 +9,9 @@ categories:
   - start
 ---
 
-Optimizing videos with Handbrake
-================================
+# Optimizing videos with Handbrake
 
-Reduce the file size of large video files before uploading them to the OnSign TV platform and save valuable storage space.
+Reduce the file size of large video files before uploading them to the Digisigns platform and save valuable storage space.
 
 In particular, the video codec profile is an important aspect to watch out for. There are multiple profiles for H.264. We recommend the Main or Baseline profiles. The High profile is often too heavy for the decoder to process.
 
@@ -27,8 +26,8 @@ We recommend converting videos with [Handbrake](https://handbrake.fr/), a free s
 3. Select the file you want to convert.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731595540766/use-handbreak-to-optimize-video-exhibition_2.jpg)
 4. On the tab "Summary":
-   * Format: MP4
-   * Check mark “Web Optimized”  
+   - Format: MP4
+   - Check mark “Web Optimized”  
      ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731595573848/use-handbreak-to-optimize-video-exhibition_3.jpg)
 5. On the “Video” tab, choose "**H.264**" for “**Video Codec**”.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731595645664/use-handbreak-to-optimize-video-exhibition_4.jpg)
@@ -37,4 +36,4 @@ We recommend converting videos with [Handbrake](https://handbrake.fr/), a free s
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731595677705/use-handbreak-to-optimize-video-exhibition_5.jpg)
 8. The converted file will be saved in the folder you specified. In this tutorial, we have used a 50MB MPEG file (left image). With the conversion, we saved about 30 MB (right image).  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731595695539/use-handbreak-to-optimize-video-exhibition_6.jpg)
-9. If the output file format is M4V, change the file extension to MP4 to be able to upload the file to your OnSign TV web account.
+9. If the output file format is M4V, change the file extension to MP4 to be able to upload the file to your Digisigns web account.

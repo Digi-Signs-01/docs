@@ -1,5 +1,5 @@
 ---
-title: "Enabling Ftp Service"
+title: 'Enabling Ftp Service'
 slug: enabling-ftp-service
 publish: false
 date: 2025-05-03
@@ -9,14 +9,13 @@ categories:
   - start
 ---
 
-Enabling FTP service
-====================
+# Enabling FTP service
 
 FTP stands for File Transfer Protocol and is a simple network protocol which allows users to transfer files from their computers to a server.
 
-You already use it when uploading files directly to OnSign TV via the browser, but FTP clients – softwares tailored for file transfer – offer further advantages, like scheduling, and queuing transfers, and more importantly uploading files larger than 2 GB.
+You already use it when uploading files directly to Digisigns via the browser, but FTP clients – softwares tailored for file transfer – offer further advantages, like scheduling, and queuing transfers, and more importantly uploading files larger than 2 GB.
 
-Before downloading the program, first enable FTP transfer on your OnSign TV account:
+Before downloading the program, first enable FTP transfer on your Digisigns account:
 
 1. Click on your username at the bottom-left corner and then on “Settings” on the drop-down menu
 

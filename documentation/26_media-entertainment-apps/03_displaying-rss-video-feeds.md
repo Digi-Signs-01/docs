@@ -1,5 +1,5 @@
 ---
-title: "Displaying Rss Video Feeds"
+title: 'Displaying Rss Video Feeds'
 slug: displaying-rss-video-feeds
 publish: false
 date: 2025-05-03
@@ -9,8 +9,7 @@ categories:
   - start
 ---
 
-Displaying RSS Video Feeds
-==========================
+# Displaying RSS Video Feeds
 
 Displaying video feeds is the most effective and efficient way to decrease perceived waiting time!
 
@@ -18,7 +17,7 @@ Whether you operate digital signage in [hospitality](https://onsign.tv/blog/case
 
 Learn how to add RSS videos to your Content:
 
-1. Start on the Content page of your OnSign TV account.
+1. Start on the Content page of your Digisigns account.
 2. Click the “New” button at the top of the page. Followed by selecting "App" from the menu options.
 3. From the pop-up window, choose the “News & RSS Feeds” category of the sidebar menu.  
    ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/23821/direct/1731658373419/how-to-display-rss-video-feeds_1.png)
