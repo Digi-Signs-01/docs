@@ -15,6 +15,12 @@ categories:
 campaigns, dayparting (different content morning vs evening), or one-off events. Outside a
 schedule's window, the screen falls back to its assigned playlist.
 
+**Watch the tutorial:**
+
+<div class="video-embed">
+  <iframe src="https://www.youtube-nocookie.com/embed/xMyAXzKXizs" title="Schedule Content on Digisigns Dashboard" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ![The Schedules page](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/dashboard/schedules.png)
 
 ## The schedule list

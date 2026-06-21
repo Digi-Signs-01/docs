@@ -36,19 +36,45 @@ Use the toolbar to narrow the list:
 - **Search** by screen name.
 - **Screen Group**, status (**All / Online / Offline / …**), and **All Resolutions**
   filters.
-- The **three-dot menu** on each row opens actions for that screen — typically rename,
-  assign content, edit settings, move to a group, or delete. The **info icon** shows
-  detailed status and last-seen information.
+- The **three-dot menu** on each row opens the full [screen actions menu](#screen-actions-menu)
+  — publish content, take a screenshot, restart the player, and more. The **info icon**
+  shows detailed status and last-seen information.
 
 > [!tip]
 > A new player appears here automatically once it is paired and shows its registration
 > code in the dashboard. Until you assign a playlist or schedule, it stays **Unassigned**.
+
+### Screen actions menu
+
+The **three-dot menu** on a screen row opens its full set of remote actions:
+
+| Action | What it does |
+| --- | --- |
+| **Edit** | Rename the screen and change its settings — orientation, resolution, group, and tags. |
+| **Publish Content** | Assign a playlist, schedule, app, or media item to play on the screen. |
+| **Unassign Content** | Remove the currently assigned content, returning the screen to **Unassigned**. |
+| **Take Screenshot** | Capture what the screen is showing right now, to confirm it's playing correctly. |
+| **Preview** | Preview the screen's assigned content from the dashboard. |
+| **Device Info** | View hardware and player details — model, OS, app version, IP address, and storage. |
+| **Activity Log** | See this screen's event history — connections, content changes, and restarts. |
+| **Schedules Info** | View the schedules currently targeting this screen. |
+| **Enable Data Saver** | Reduce the screen's bandwidth use by lowering sync frequency. |
+| **Clear Screen Cache** | Clear cached media on the player to free space or force a fresh download. |
+| **Restart Screen** | Remotely reboot the player. |
+| **Archive Screen** | Remove the screen from the active list without deleting its history. |
+| **Sign Out** | Sign the player out of this screen's credentials. |
 
 ## Groups
 
 **Groups** let you organise screens (for example by location, store, or floor) and act on
 many at once — assign the same playlist to a whole group, or publish to a group instead of
 selecting screens one by one. Create a group, then add screens to it.
+
+**Watch the tutorial:**
+
+<div class="video-embed">
+  <iframe src="https://www.youtube-nocookie.com/embed/G1sm54AoxUE" title="Group Multiple Screens on the Digisigns Dashboard" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Tags
 

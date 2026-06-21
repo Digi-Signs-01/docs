@@ -14,6 +14,12 @@ categories:
 **Media** is your content library — every image, video, PDF, web link, and YouTube clip
 you've added lives here, ready to drop into a playlist or publish to a screen.
 
+**Watch the tutorial:**
+
+<div class="video-embed">
+  <iframe src="https://www.youtube-nocookie.com/embed/-BkxH-6jlvk" title="Uploading Media on the Digisigns Dashboard" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ![The Media library](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/dashboard/media-library.png)
 
 ## The media list

@@ -15,6 +15,8 @@ Guides for installing and managing Digisigns on Android devices.
 
 -   :material-file-document-outline:{ .lg .middle } &nbsp; __[Installing Android App](01_installing-android-player-software.md)__
 
+-   :material-play-circle-outline:{ .lg .middle } &nbsp; __[Setup Video Tutorials](08_android-setup-video-tutorials.md)__
+
 -   :material-file-document-outline:{ .lg .middle } &nbsp; __[Amazon Signage Stick](05_amazon-signage-stick.md)__
 
 </div>

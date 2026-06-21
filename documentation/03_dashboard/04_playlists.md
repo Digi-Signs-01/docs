@@ -15,6 +15,12 @@ A **playlist** is an ordered sequence of media that plays as a loop. Playlists a
 most common way to put content on a screen: build the loop once, then assign it to one or
 many screens.
 
+**Watch the tutorial:**
+
+<div class="video-embed">
+  <iframe src="https://www.youtube-nocookie.com/embed/aolm7f7ljO0" title="Create a Playlist on Digisigns Dashboard" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ![The Playlists page](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/dashboard/playlists.png)
 
 ## The playlist list

@@ -14,6 +14,12 @@ categories:
 **Reports** gives you an audit trail and analytics for your account. It expands into two
 sub-pages: **User Activity** and **Analytics**.
 
+**Watch the tutorial:**
+
+<div class="video-embed">
+  <iframe src="https://www.youtube-nocookie.com/embed/NK8JwNTnslE" title="The Reports Tab on the Digisigns Dashboard" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ![The User Activity report](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/dashboard/reports-user-activity.png)
 
 ## User Activity
