@@ -267,8 +267,6 @@ Manage your Digisigns subscription and profile:
 
 Digisigns offers flexible subscription options to suit businesses of all sizes:
 
-![Pricing Plans](https://miro.medium.com/v2/resize:fit:640/format:webp/1*nAI__KqmRZuOELLo67IjMA.png)
-
 For the most current pricing information, please visit [digisigns.in/pricing](https://www.digisigns.in/pricing)
 
 ### Enterprise Solutions
@@ -288,7 +286,7 @@ For larger deployments or custom requirements, contact our sales team to discuss
 
 ### Technical Support
 - Email: support@digisigns.in
-- Phone: [Contact number]
+- WhatsApp: [+91 96805 27770](https://wa.me/919680527770)
 - Live chat: Available on website during business hours
 
 ### Training Resources
