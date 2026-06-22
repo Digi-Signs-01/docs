@@ -27,13 +27,13 @@ Welcome to Digisigns, your complete cloud-based digital signage solution. This c
 
     [:octicons-arrow-right-24: App Installation](02_player-installation/README.md)
 
--   :material-view-dashboard-outline:{ .lg .middle } &nbsp; **Dashboard basics**
+-   :material-view-dashboard-outline:{ .lg .middle } &nbsp; **Explore the dashboard**
 
     ---
 
-    Add, rename, and manage your screens from the dashboard.
+    Manage screens, media, playlists, schedules, and reports from one place.
 
-    [:octicons-arrow-right-24: Dashboard operations](07_basic-dashboard-operations/README.md)
+    [:octicons-arrow-right-24: Dashboard Guide](03_dashboard/README.md)
 
 -   :material-shield-lock-outline:{ .lg .middle } &nbsp; **Network & firewall**
 
@@ -103,7 +103,7 @@ Manage access and permissions for your team:
 - Monitor user activity and content changes
 - Control access to specific screens or screen groups
 
-![[DigisignsDashboard.png]]
+![The Digisigns dashboard — your signage network at a glance](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/dashboard/dashboard-home.png)
 ### Media
 Your content library for all digital assets:
 - Upload and manage images, videos, and other media files
@@ -116,7 +116,7 @@ Your content library for all digital assets:
 - Videos: MP4
 - Maximum file size varies by subscription plan
 
-![Media Library](https://miro.medium.com/v2/resize:fit:640/format:webp/1*RTxP8iXQ2T7__HhEGcV93Q.png)
+![The Digisigns media library](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/dashboard/media-library.png)
 
 ### Playlists
 Create dynamic content sequences for your screens:
@@ -125,7 +125,7 @@ Create dynamic content sequences for your screens:
 - Schedule playlists for specific dates and times
 - Assign playlists to individual screens or screen groups
 
-![Playlist Management](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Ue1RDBTkM3cVez50mppBTQ.png)
+![Managing playlists in Digisigns](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/dashboard/playlists.png)
 
 ### Screens
 Manage all your display devices:
@@ -135,7 +135,7 @@ Manage all your display devices:
 - Monitor screen health and connectivity
 - Access screen login credentials for device setup
 
-![Screen Management](https://miro.medium.com/v2/resize:fit:640/format:webp/1*q_qnNUFmujlszxAj3SBySw.png)
+![Managing screens in Digisigns](https://digiboardimages.s3.ap-south-1.amazonaws.com/docs/dashboard/screens-list.png)
 
 ### Account
 Manage your Digisigns subscription and profile:
@@ -200,45 +200,29 @@ Manage your Digisigns subscription and profile:
 4. Set schedule preferences
 5. Click **Publish**
 
-## Mobile Application Setup
+## Installing the Player App
 
-### For Android Devices
+Digisigns runs on a wide range of hardware — Android players, LG webOS, Samsung Tizen,
+NovaStar Taurus, Windows, and macOS. The dedicated [App Installation](02_player-installation/README.md)
+guides cover each platform step by step.
 
-1. **Download the App**:
-   - Go to Google Play Store
-   - Search for "Digisigns"
-   - Install the application
+### Android, in brief
 
-   ![App Download](https://miro.medium.com/v2/resize:fit:640/format:webp/1*xvDozXuYD1cvYzWdXfXtfQ.png)
+1. Install the Digisigns app from the
+   [Google Play Store](https://play.google.com/store/apps/details?id=com.digisigns.app),
+   or side-load it from [digisigns.in/downloads](https://digisigns.in/downloads) for full
+   control over updates and the newest features.
+2. Launch the app and either **log in with the screen's credentials** (the screen ID and
+   password from the **Screens** section of your dashboard) or pair it using the on-screen
+   **registration code**.
+3. Choose the screen orientation if prompted, then wait for content to download — your
+   screen is now live.
 
-2. **Enable Auto-Updates**:
-   - Open Google Play Store
-   - Tap your profile icon in the top right
-   - Select **Settings**
-   - Go to **Network preferences**
-   - Choose **Auto-update apps**
-   - Select **Over any network** or **Over Wi-Fi only**
-
-   ![Play Store Settings](https://miro.medium.com/v2/resize:fit:640/format:webp/1*MfXwiN4lr1xieri-GHPZWA.png)
-
-3. **Device Configuration**:
-   - Connect your device to a power source
-   - Ensure stable internet connection
-   - For public displays, secure the device to prevent tampering
-   - Consider using screen lock apps to restrict access
-
-### Setting Up Your Screen
-
-1. Launch the Digisigns app on your device
-2. If prompted for an update, complete the update first
-3. Enter the screen ID and password from your Digisigns account
-   (These credentials can be found in the **Screens** section of your dashboard)
-
-   ![App Login](https://miro.medium.com/v2/resize:fit:640/format:webp/1*bEphe4WHkLj1nsgbmyb7kw.png)
-
-4. Select screen orientation if prompted
-5. Wait for content to download and display
-6. Your screen is now connected and will display according to your scheduled content
+> [!tip]
+> Prefer to watch? The
+> [Android Setup Video Tutorials](02_player-installation/02_android/08_android-setup-video-tutorials.md)
+> walk through first-time device setup, installing the app, logging in, ensuring the app
+> auto-starts, and factory reset.
 
 ## Best Practices
 
