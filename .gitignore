@@ -30,7 +30,8 @@ node_modules
 sandbox*
 docs_template
 
-# Obsidian files
+# Obsidian vaults (editor config + multi-MB plugin binaries — never in VCS)
+.obsidian/
 documentation/.obsidian/
 
 # Smart-env files (Obsidian Smart Connections embedding cache)
