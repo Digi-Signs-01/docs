@@ -1,15 +1,16 @@
 ---
-title: Basic Dashboard Operations
+title: Pairing App
 slug: basic-player-operations
 publish: true
 date: 2025-05-03
 update: 2026-06-22
-description: Basic Dashboard Operations setup guides for Digisigns.
+description: Pair the Digisigns app to your dashboard and manage screens — connecting, renaming, signing out, and replacing devices.
 ---
 
-# Basic Dashboard Operations
+# Pairing App
 
-Guides for installing and managing Digisigns on Basic Dashboard Operations devices.
+Connect a player to your Digisigns dashboard and manage it day to day — pairing a new
+screen, renaming it, signing out, and replacing or removing hardware.
 
 <div class="grid cards" markdown>
 
