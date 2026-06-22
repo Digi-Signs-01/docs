@@ -33,5 +33,6 @@ docs_template
 # Obsidian files
 documentation/.obsidian/
 
-# Smart-env files
+# Smart-env files (Obsidian Smart Connections embedding cache)
+.smart-env/
 documentation/.smart-env/
